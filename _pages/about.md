@@ -15,7 +15,7 @@ I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-lei
 Research Interests
 ------
 * Movement (Asymmetries in Left- & Rightward Movements, Scrambling, Extraposition)
-* Distributions on Obligatory Control (OC) versus Non OC and its licensing condition (with Mike Berger)
+* (No) Control and its licensing condition (with Mike Berger)
 * Locality Constraint on Suppletive Allomorph  (with Irene Amato)
 * Natural Language Processing (with Guanghao Xu)
 
