@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 
-
-
+<div class="about-text">
 I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine) at the Universität Leipzig. My primary linguistic interest lies in exploring structures and constraints that underlie sentence formation within generative grammar. My dissertation focuses on syntactic movement in ditransitive constructions and investigates the A/A-bar asymmetries within these structures.  I am also affiliated witt DFG Scientific Network [Applicative alternations across languages (AAAL)](https://aaal.uni-koeln.de/). I also work on natural language processing projects. 
-
+</div>
 
 Research Interests
 ======
