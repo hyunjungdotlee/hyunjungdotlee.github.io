@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hyunjung Lee"
+title                    : # "Hyunjung Lee"
 title_separator          : "-"
 name                     : &name "Hyunjung Lee"
 description              : &description "personal description"
@@ -26,10 +26,10 @@ author:
   name             : "Hyunjung Lee"
   pronouns         :  "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Leipzig, DE"
-  employer         : "Universität Leipzig"
+  location         : "Beethovenstraße 15, D-04107 Leipzig, DE"
+  employer         : "Institut für Linguistik, Universität Leipzig"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hyunjung.lee@uni-leipzig.de" 
 
   # Academic websites
   academia         : # URL
