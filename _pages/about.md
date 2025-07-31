@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hyunjung's personal websites"
+title: #"Hyunjung's personal websites"
 author_profile: true
 redirect_from: 
   - /about/
