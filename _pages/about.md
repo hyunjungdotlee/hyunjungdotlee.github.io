@@ -27,15 +27,13 @@ Presentation
 <em>in collection</em>
 
 <strong>Aug. 2021</strong>
-Lee, H. & Berger. M. (2021) On the obligatory versus no control split in Korean. <em>Non-canonical Control in a Cross-linguistic Perspective.</em> 107-135. (Eds) Anne Mucha, Jutta M. Hartmann and Beata Trawiński. [pdf]
+Lee, H. & Berger. M. (2021) On the obligatory versus no control split in Korean. <em>Non-canonical Control in a Cross-linguistic Perspective.</em> 107-135. (Eds) Anne Mucha, Jutta M. Hartmann and Beata Trawiński. [pdf](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/10654/file/Mucha_Hartmann_Non_canonical_control_2021.pdf#page=114).
 
-Dec. 2018 
+<strong>Dec. 2018</strong>
+Lee, H. & Amato, I. (2018) A Hybrid Locality Constraint on Allomorph. <em>Snippet</em>. Issue 34 – Special issue on Non-local Contextual Allomorphy [pdf](https://www.ledonline.it/snippets/allegati/snippets34006.pdf)
 
-Lee, H. & Amato, I. (2018) A Hybrid Locality Constraint on Allomorph. Snippet. Issue 34 – Special issue on Non-local Contextual Allomorphy [pdf]
-
-Dec. 2016
-
-Lee, H, Lee, J & Koo, M.-W. (2016) A Novel Framework for User Intent Detect. The Institute of Electronics and Engineers computer information society, Seoul section. [Outstanding Prize][pdf]
+<strong>Dec. 2016 </strong>
+Lee, H, Lee, J & Koo, M.-W. (2016) A Novel Framework for User Intent Detect. <em>The Institute of Electronics and Engineers computer information society, Seoul section</em>. (Outstanding Prize)[pdf](https://drive.google.com/file/d/1TG8dSUk_aOTY3ctv701LWczEgTWaSxUz/view)
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its 
 Example: editing a Markdown file for a talk
