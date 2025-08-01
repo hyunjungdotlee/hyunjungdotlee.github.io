@@ -22,6 +22,8 @@ Research Interests
 
 Recent and Upcoming
 ------
+<strong>To appear</strong>
+Lee, H., Shim, S. & Seong-yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>Anti-Asian Racism in Transatlantic Perspectives</em> (Ed.) Kien Nghi Ha. [pdf] <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Nov. 2025</strong> Civil Society Perspectives on Action and Advocacy. Cross-Sectoral Symposium Addressing Structural Racism, Diversity and Inclusion. Malmö, Sweden <span class="pill pill-ar">anti-racism</span> 
 
@@ -35,13 +37,10 @@ Malmö Institute for Migration Studies, Malmö, Sweden <span class="pill pill-ar
 <strong>April 2025</strong> The State of Anti-Racism in the EU and Germany: NAPAR Implementation and Legal Frameworks. DAAD working group. The University of Minnesota, Twin Cities. <span class="pill pill-ar">anti-racism</span> 
 
 
-
 Publication
 ------
-
-<strong>To appear</strong>
-Lee, H., Shim, S. & Seong-yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>Anti-Asian Racism in Transatlantic Perspectives</em> (Ed.) Kien Nghi Ha. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
-
+<strong>Feb. 2024</strong>
+Asian Voices Europe. When Asian Voices Echo: anti-Asian racism in Europe. [pdf](https://www.asianvoiceseurope.org/survey)  <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Dec.2022</strong>
 Driemel, I. & Lee, H. Pseudo-incorporation vs. Differential Argument Marking in Korean. In Proceedings of GLOW in Asia XIII.  [lingbuzz/006855](https://ling.auf.net/lingbuzz/006855) <span class="pill pill-lg">linguistics</span> 
