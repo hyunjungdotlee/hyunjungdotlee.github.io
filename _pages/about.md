@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine) at the Universität Leipzig. My primary linguistic interest lies in exploring structures and constraints that underlie sentence formation within generative grammar. My dissertation focuses on syntactic movement in ditransitive constructions and investigates the A/A-bar asymmetries within these structures.  I am also affiliated witt DFG Scientific Network [Applicative alternations across languages (AAAL)](https://aaal.uni-koeln.de/), and have contributed to projects in natural language processing. Beyond linguistics, I am committed to anti-racist and feminist advocacy, especially addressing anti-Asian racism in Europe through  fostering structural discourse on these issues.
+I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine) at the Universität Leipzig. My primary linguistic interest lies in exploring structures and constraints that underlie sentence formation within generative grammar. My dissertation focuses on syntactic movement in ditransitive constructions and investigates the A/A-bar asymmetries within these structures.  I am also affiliated witt DFG Scientific Network [Applicative alternations across languages (AAAL)](https://aaal.uni-koeln.de/), and have contributed to projects in natural language processing. Beyond linguistics, I am committed to anti-racist and feminist advocacy, especially addressing intersectional (anti-)Asian racism in Europe through fostering structural discourse on these issues.
 
 
 Research Interests
@@ -18,7 +18,7 @@ Research Interests
 * (No) Control and its licensing condition (with Mike Berger)
 * Locality Constraint on Suppletive Allomorph  (with Irene Amato)
 * Natural Language Processing (with Guanghao Xu)
-* Decolonization, anti-racism, intersectionality theory, and discourses of power (with [Asian Voices Europe](https://www.asianvoiceseurope.org/))
+* Decolonization, (anti-)racism, intersectionality theory, and discourses of power (with [Asian Voices Europe](https://www.asianvoiceseurope.org/))
 
 
 Recent and Upcoming
