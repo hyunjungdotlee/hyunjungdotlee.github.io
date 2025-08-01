@@ -18,7 +18,7 @@ Research Interests
 * (No) Control and its licensing condition (with Mike Berger)
 * Locality Constraint on Suppletive Allomorph  (with Irene Amato)
 * Natural Language Processing (with Guanghao Xu)
-* Decolonization, anti-racism, intersectionality theory, and discourses of power (with [Asian Voices Europe]((https://www.asianvoiceseurope.org/))
+* Decolonization, anti-racism, intersectionality theory, and discourses of power (with [Asian Voices Europe](https://www.asianvoiceseurope.org/))
 
 
 Recent and Upcoming
