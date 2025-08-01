@@ -28,7 +28,7 @@ Publication
 <em>in collection</em>
 
 <strong>Aug. 2021</strong>
-Lee, H. & Berger. M. (2021) On the obligatory versus no control split in Korean. <em>Non-canonical Control in a Cross-linguistic Perspective.</em> 107-135. (Eds) Anne Mucha, Jutta M. Hartmann and Beata Trawiński. [pdf](files/leeberger2021.pdf) <span class="pill pill-linguistics">Linguistics</span> 
+Lee, H. & Berger. M. (2021) On the obligatory versus no control split in Korean. <em>Non-canonical Control in a Cross-linguistic Perspective.</em> 107-135. (Eds) Anne Mucha, Jutta M. Hartmann and Beata Trawiński. [pdf](files/leeberger2021.pdf) <span class="pill pill-lg">linguistics</span> 
 
 <strong>Dec. 2018</strong>
 Lee, H. & Amato, I. (2018) A Hybrid Locality Constraint on Allomorph. <em>Snippet</em>. Issue 34 – Special issue on Non-local Contextual Allomorphy [pdf](files/leeamato2018snippets.pdf)
