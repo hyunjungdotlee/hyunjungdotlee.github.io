@@ -40,7 +40,7 @@ Publication
 ------
 
 <strong>To appear</strong>
-Lee, H., Shim, S. & Seong-yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>Anti-Asian Racism in Transatlantic Perspectives</em> (Ed.) Kien Nghi Ha. [pdf] <span class="pill pill-ar">anti-racism</span> 
+Lee, H., Shim, S. & Seong-yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>Anti-Asian Racism in Transatlantic Perspectives</em> (Ed.) Kien Nghi Ha. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
 
 
 <strong>Dec.2022</strong>
