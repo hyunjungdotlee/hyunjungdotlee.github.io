@@ -25,11 +25,10 @@ author:
   avatar           : "lees.png"
   name             : "Hyunjung Lee"
   pronouns         :  "she/her" 
-  cv_link: "/files/CV_Lee_010625.pdf"
   bio              : #"bio"
   location         : "Beethovenstraße 15, 04107"
   employer         : "Universität Leipzig"
-  uri              : # URL
+  uri              :  "[cv](/files/CV_Lee_010625.pdf)"
   email            : "hyunjung.lee@uni-leipzig.de" 
 
   # Academic websites
