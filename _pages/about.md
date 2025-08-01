@@ -27,23 +27,24 @@ Presentation
 <em>in collection</em>
 
 <strong>Aug. 2021</strong>
-Lee, H. & Berger. M. (2021) On the obligatory versus no control split in Korean. <em>Non-canonical Control in a Cross-linguistic Perspective.</em> 107-135. (Eds) Anne Mucha, Jutta M. Hartmann and Beata Trawiński. [pdf](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/10654/file/Mucha_Hartmann_Non_canonical_control_2021.pdf#page=114).
+Lee, H. & Berger. M. (2021) On the obligatory versus no control split in Korean. <em>Non-canonical Control in a Cross-linguistic Perspective.</em> 107-135. (Eds) Anne Mucha, Jutta M. Hartmann and Beata Trawiński. [pdf](files/leeberger2021.pdf)
 
 <strong>Dec. 2018</strong>
-Lee, H. & Amato, I. (2018) A Hybrid Locality Constraint on Allomorph. <em>Snippet</em>. Issue 34 – Special issue on Non-local Contextual Allomorphy [pdf](https://www.ledonline.it/snippets/allegati/snippets34006.pdf)
+Lee, H. & Amato, I. (2018) A Hybrid Locality Constraint on Allomorph. <em>Snippet</em>. Issue 34 – Special issue on Non-local Contextual Allomorphy [pdf](files/leeamato2018snippets.pdf)
 
 <strong>Dec. 2016 </strong>
-Lee, H, Lee, J & Koo, M.-W. (2016) A Novel Framework for User Intent Detect. <em>The Institute of Electronics and Engineers computer information society, Seoul section</em>. (Outstanding Prize)[pdf](https://drive.google.com/file/d/1TG8dSUk_aOTY3ctv701LWczEgTWaSxUz/view)
+Lee, H, Lee, J & Koo, M.-W. (2016) A Novel Framework for User Intent Detect. <em>The Institute of Electronics and Engineers computer information society, Seoul section</em>. Outstanding Prize. [pdf](files/Lee2016b.pdf)
 
-in proceedings
+
+<em>in proceedings</em>
 
 Dec.2022
 
-Driemel, I. & Lee, H. Pseudo-incorporation vs. Differential Argument Marking in Korean. In Proceedings of GLOW in Asia XIII.  [lingbuzz/006855]
+Driemel, I. & Lee, H. Pseudo-incorporation vs. Differential Argument Marking in Korean. In Proceedings of GLOW in Asia XIII.  [lingbuzz/006855](https://ling.auf.net/lingbuzz/006855)
 
 Feb. 2019
 
-Lee, H. & Amato, I.  (2019) Locality Constraint Gives an Insight into Suppletion. In Proceedings of the Conference of the Student Organisation of Linguistics in Europe. [pdf]
+Lee, H. & Amato, I.  (2019) Locality Constraint Gives an Insight into Suppletion. In Proceedings of the Conference of the Student Organisation of Linguistics in Europe. [pdf](files/leeamato2019console.pdf)
 
 Nov. 2017
 
