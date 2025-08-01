@@ -21,7 +21,7 @@ Research Interests
 * Natural Language Processing (with Guanghao Xu)
 
 
-Presentation
+Publication
 ------
 
 <em>in collection</em>
@@ -68,135 +68,103 @@ Yang, H., Lee, Y.-I., Lee, H., Cho, S.-W., & Koo, M.-W.. (2015) A Study on Word 
 
 manuscripts/in prep
 
-May. 2020
-
+<strong>May. 2020</strong>
 Reconstruction effects for Binding and Anti-Locality. Ms. Universität Leipzig. [pdf]
 
-Sep. 2019
-
+<strong>Sep. 2019</strong>
 Xu, G., Lee, H., Koo, M.-W.. & Seo, J. (in prep.) Optimizing Policy via Deep Reinforcement Learning for Dialogue Management. Transactions of the Association for Computational Linguistics.[pdf]
 
-Feb. 2019
-
+<strong>Feb. 2019</strong>
 Born to be gradient: a case study from compound tensing in Korean. Ms. Universität Leipzig. [pdf]
 
-Jul. 2018
-
+<strong>Jul. 2018</strong>
 Xu, G. & Lee, H. Toward Multi-lingual Natural Language Understanding Using Deep Neural Networks. Ms. Sogang University. [pdf]
 
 
 Presentations
+------
 
-peer-reviewed 
 
-Aug. 2022
-
+<strong>Aug. 2022</strong>
 [with Imke Driemel] Pseudo-incorporation vs. Differential Argument Marking in Korean. GLOW in Asia XIII. Chinese University of Hong Kong. [pdf]
 
-May. 2019
-
+<strong>May. 2019</strong>
 [with Daniel Gleim] Fairies land only at midnight: on Laryngeal Sonorant/Vowel Roots in Korean. The 27th Manchester Phonology Meeting. [pdf]
 
-May. 2019 
-
+<strong>May. 2019</strong>
 Innate Activity: Gradience in Korean Compound Tensing. The 42 Generative Linguistics in the Old World (GLOW) conference (Workshop 2, "Rules and Learning Strategies in the Acquisition of Signed and Spoken Phonologies.") in Oslo, Norway [pdf]
 
-Mar. 2019 
-
+<strong>Mar. 2019</strong>
 [with Mike Berger] Control is Agree: an Evidence from Korean. The 41st Annual Meeting of the DGfS (Deutsche Gesellschaft für Sprachwissenschaft) in Bremen, Germany. [pdf]
 
-Jan. 2019 
-
+<strong>Jan. 2019</strong>
 Born to Be Gradient: Predicting exceptions of Compound Tensing in Korean. The 16th Old World Conference on Phonology (OCP XVI) in Verona, Italy.[pdf]
 
-Jan. 2019 
-
+<strong>Jan. 2019</strong> 
 [with Daniel Gleim] The Short Life Span of Laryngeal Sonorants in Korean. The 16th Old World Conference on Phonology (OCP XVI) in Verona, Italy. [pdf]
 
-​Nov. 2018 
-
+<strong>​Nov. 2018</strong>
 [with Imke Driemel] Pseudo-noun incorporation in Korean, Nominals at the Interfaces in Seoul, South Korea. [pdf]
 
-Oct. 2018
-
+<strong>Oct. 2018</strong>
 [with Gereon Müller] Asymmetries in Long-Distance Dependencies: A View from Gradient Harmonic Grammar. Workshop: Long-distance dependencies in Berlin, Germany. [pdf]
 
-May. 2018 
-
+<strong>May. 2018</strong>
 Predicting Exceptionality of Sai-siot in Gradient Harmonic Grammar. The 1st Conference on Pokémonastics in Tokyo,  Japan.
 
-Mar. 2018    
-
+<strong>Mar. 2018</strong> 
 Asymmetry on left- and right-ward movement. The 40th Annual Meeting of the DGfS (Deutsche Gesellschaft für Sprachwissenschaft) in Stuttgart, Germany. [pdf]
 
-Feb. 2018
-
+<strong>Feb. 2018</strong>
 [with Irene Amato] Locality Constraint Gives an Insight to Suppletion. The 26th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXVI) at  University College London, England. [pdf]
 
-Jan. 2018    
-
+<strong>Jan. 2018</strong>    
 [with Guanghao Xu] Optimizing Policy via Deep Reinforcement Learning for Dialogue Management. IEEE International Conference on Big Data and Smart Computing (BigComp) in Shanghai, China. [pdf]
 
-Nov. 2017    
-
+<strong>Nov. 2017</strong>    
 [with Irene Amato] Suppletion under a locality constraint: an evidence from Korean. The 14th Conference on Typology and Grammar for Young Scholars at Institute for Linguistic Studies RAS, Russia. 
 
-Jun. 2017
-
+<strong>Jun. 2017</strong>
 Tone Melody in Busan Korean Revisited. The 20th Biennial Meeting of the International Circle of Korean Linguistics (ICKL20) at University of Helsinki, Finland.
 
-Feb. 2017
-
+<strong>Feb. 2017</strong>
 [with Michael Barrie] Complementizer Allomorphy in Busan Korean. Generative Linguistics in the GLOW in Asia XI at National University of Singapore, Singapore. 
 
-Feb. 2017 
-
+<strong>Feb. 2017</strong> 
 [with Guangho Xu] Convolutional Neural Network using a Threshold Predictor for Multi-label Speech Act Classification, 2017 IEEE International Conference on Big Data and Smart Computing (BigComp) in Jeju, Korea. 
 
-Jan. 2017
-
+<strong>Jan. 2017</strong>
 Complementizer Agreement in Busan Korean. The 25th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXV) at Universität Leipzig, Germany.
 
-Nov. 2016
-
+<strong>Nov. 2016</strong>
 [with Jeongpil Lee and Myoung-Wan Koo] A Study on User Intent Detect in the Wordpiece Model. 2016 International Conference on Speech Sciences (ICSS) at Seoul National University, Korea.
 
-Aug. 2016    
-
+<strong>Aug. 2016</strong>    
 The Left Periphery in Busan Korean Interrogatives. The 18th Seoul International Conference on Generative Grammar (SICOGG) in Sogang University, Korea. 
 
-Jun. 2016   
-
+<strong>Jun. 2016</strong>   
 The Interrogative Complementizer and Distributed Morphology in Busan Korean. Workshop on Syntax, Semantics and Phonology (WoSSP) at Universitat Autònoma de Barcelona, Spain.
 
-May. 2016  
-
+<strong>May. 2016</strong>  
 A Study on Dialog Act for Representing Korean Semantic Information. International Conference on Cognitive Science (ICCS) at Seoul National University, Korea. 
 
-Dec. 2015   
-
+<strong>Dec. 2015</strong>   
 The Distribution of Complementizer in South Kyungsang Korean. English Language & Literature Association of Korea (ELLAK) International Conference in Busan, Korea. 
 
-Nov. 2015  
-
+<strong>Nov. 2015</strong>  
 A study on Word Vector Model for Representing Korean Semantic Information. Korean Society of Speech Science (KSSS) International Conference at Ehwa Womans University, Korea.
 
 
-non-refereed talkes
+<em>non-refereed talkes</em>
 
-May. 2020
-
+<strong>May. 2020<strong>
 Counter-bleeding effects: index valuation and movement. Opacity Symposium at Universität Leipzig, Germany.
 
-Apr. 2018
-
+<strong>Apr. 2018<strong>
 [with Irene Amato] Optional Removal in Korean: A New Insight on Free Variation. Workshop on Shrinking Trees in Morphology at Universität Leipzig, Germany.
 
 Apart from my interests in Linguistics,
+------
 
 I am also passionate about fighting racism (especially anti-Asian racism in Europe) and sexism, organizing women's empowerment workshops, and facilitating structural discourse on these issues. 
 
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-[the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki),
