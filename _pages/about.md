@@ -27,7 +27,7 @@ Lee, H., Shim, S. & Seong-yu, J. The Invisible and the Hypervisible: Anti-Asian 
 
 <strong>Nov. 2025</strong> Civil Society Perspectives on Action and Advocacy. Cross-Sectoral Symposium Addressing Structural Racism, Diversity and Inclusion. Malmö, Sweden <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Oct. 2025</strong>Hypervisibility, Invisibility, and the Historico-Racial Schema: Rethinking Anti-Asian Racism in Europe
+<strong>Oct. 2025</strong> Hypervisibility, Invisibility, and the Historico-Racial Schema: Rethinking Anti-Asian Racism in Europe
 Malmö Institute for Migration Studies, Malmö, Sweden <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Jul. 2025</strong> Dissonance as a Social Signal. <em>a.r.t.e.s. Forum. Disturbance: Dissonance</em>. Philosophische Fakultät, Universität zu Köln, Germany [pdf] <span class="pill pill-ar">anti-racism</span> 
