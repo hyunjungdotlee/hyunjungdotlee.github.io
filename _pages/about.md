@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine) at the Universität Leipzig. My primary linguistic interest lies in exploring structures and constraints that underlie sentence formation within generative grammar. My dissertation focuses on syntactic movement in ditransitive constructions and investigates the A/A-bar asymmetries within these structures.  I am also affiliated witt DFG Scientific Network [Applicative alternations across languages (AAAL)](https://aaal.uni-koeln.de/). I have worked on natural language processing projects. Apart from my interests in Linguistics, I am also passionate about fighting racism (especially anti-Asian racism in Europe) and sexism, organizing women's empowerment workshops, and facilitating structural discourse on these issues. 
+I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine) at the Universität Leipzig. My primary linguistic interest lies in exploring structures and constraints that underlie sentence formation within generative grammar. My dissertation focuses on syntactic movement in ditransitive constructions and investigates the A/A-bar asymmetries within these structures.  I am also affiliated witt DFG Scientific Network [Applicative alternations across languages (AAAL)](https://aaal.uni-koeln.de/), and have contributed to projects in natural language processing. Beyond linguistics, I am committed to anti-racist and feminist advocacy, especially addressing anti-Asian racism in Europe through  fostering structural discourse on these issues.
 
 
 Research Interests
@@ -18,12 +18,13 @@ Research Interests
 * (No) Control and its licensing condition (with Mike Berger)
 * Locality Constraint on Suppletive Allomorph  (with Irene Amato)
 * Natural Language Processing (with Guanghao Xu)
+* Decolonization, anti-racism, intersectionality theory, and discourses of power (with [Asian Voices Europe]((https://www.asianvoiceseurope.org/))
 
 
 Recent and Upcoming
 ------
 <strong>To appear</strong>
-Lee, H., Shim, S. & Seong-yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>Anti-Asian Racism in Transatlantic Perspectives</em> (Ed.) Kien Nghi Ha. [pdf] <span class="pill pill-ar">anti-racism</span> 
+Lee, H., Shim, S. & Seong-yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>Anti-Asian Racism in Transatlantic Perspectives</em> (Ed.) Kien Nghi Ha. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Nov. 2025</strong> Civil Society Perspectives on Action and Advocacy. Cross-Sectoral Symposium Addressing Structural Racism, Diversity and Inclusion. Malmö, Sweden <span class="pill pill-ar">anti-racism</span> 
 
