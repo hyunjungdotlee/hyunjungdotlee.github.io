@@ -128,7 +128,7 @@ Asymmetry on left- and right-ward movement. The 40th Annual Meeting of the DGfS 
 Tone Melody in Busan Korean Revisited. The 20th Biennial Meeting of the International Circle of Korean Linguistics (ICKL20) at University of Helsinki, Finland.
 
 <strong>Feb. 2017</strong>
-[(with Michael Barrie)](http://mikebarrie.com/) Complementizer Allomorphy in Busan Korean. Generative Linguistics in the GLOW in Asia XI at National University of Singapore, Singapore. 
+[with Michael Barrie](http://mikebarrie.com/) Complementizer Allomorphy in Busan Korean. Generative Linguistics in the GLOW in Asia XI at National University of Singapore, Singapore. 
 
 <strong>Feb. 2017</strong> 
 (with Guangho Xu) Convolutional Neural Network using a Threshold Predictor for Multi-label Speech Act Classification, 2017 IEEE International Conference on Big Data and Smart Computing (BigComp) in Jeju, Korea. 
@@ -157,7 +157,7 @@ A study on Word Vector Model for Representing Korean Semantic Information. Korea
 
 <em>non-refereed talkes</em>
 
-<strong>May. 2020<s/trong>
+<strong>May. 2020</strong>
 Counter-bleeding effects: index valuation and movement. Opacity Symposium at Universität Leipzig, Germany.
 
 <strong>Apr. 2018</strong>
