@@ -28,7 +28,7 @@ author:
   bio              : #"bio"
   location         : "Beethovenstraße 15, 04107"
   employer         : "Universität Leipzig"
-  uri              :  "[cv](/files/CV_Lee_010625.pdf)"
+  uri              :  #""
   email            : "hyunjung.lee@uni-leipzig.de" 
 
   # Academic websites
