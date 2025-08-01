@@ -45,40 +45,40 @@ Driemel, I. & Lee, H. Pseudo-incorporation vs. Differential Argument Marking in 
 Lee, H. & Amato, I.  (2019) Locality Constraint Gives an Insight into Suppletion. In Proceedings of the Conference of the Student Organisation of Linguistics in Europe. [pdf](files/leeamato2019console.pdf)
 
 <strong>Nov. 2017</strong>
-Lee, H. & Barrie, M. (2017) Complementizer Allomorphy in Busan Korean. In Proceedings of GLOW in Asia XI. MIT Working Papers in Linguistics. MIT Working Papers in Linguistics, Cambridge: MA.[pdf]
+Lee, H. & Barrie, M. (2017) Complementizer Allomorphy in Busan Korean. In Proceedings of GLOW in Asia XI. MIT Working Papers in Linguistics. MIT Working Papers in Linguistics, Cambridge: MA.[pdf](files/BarrieLee2018glow.pdf)
 
 <strong>Aug. 2017</strong>
 Lee, H. (2017) Phasal Spell Out and Prosodic Domain. In Proceedings of 19th Seoul International Conference on Generative Grammar. The Korean Generative Grammar Cirlcle.
 
 <strong>Feb. 2017</strong>
-Xu, G. & Lee, H. (2017) Convolutional Neural Network using a Threshold Predictor for Multi-domain Dialogue. In Proceedings of 2017 IEEE International Conference on Big Data and Smart Computing (BigComp). [pdf]
+Xu, G. & Lee, H. (2017) Convolutional Neural Network using a Threshold Predictor for Multi-domain Dialogue. In Proceedings of 2017 IEEE International Conference on Big Data and Smart Computing (BigComp). [pdf](files/XuLeeKooSeo2017ieee.pdf)
 
 
 <em>peer-reviewed</em>
 
 <strong>Aug. 2017</strong>
-Xu, G., Lee, H., Koo, M.-W. & Seo, J. (2017) Retrieving Dialogue Distory in Deep Neural Networks for Spoken Language Understanding. Advances in Science, Technology and Engineering Systems Journal. [pdf]
+Xu, G., Lee, H., Koo, M.-W. & Seo, J. (2017) Retrieving Dialogue Distory in Deep Neural Networks for Spoken Language Understanding. Advances in Science, Technology and Engineering Systems Journal. [pdf](files/XuLeeKooSeo2017.pdf)
 
 <strong>Dec. 2015</strong>  
-Lee, Y.-I., Lee, H., Koo, M.-W. & Cho, S.-W. (2015) Korean Semantic Similarity Measures for the Vector Space Models. Journal of the Korean society of speech sciences. Vol(7)4. [pdf]
+Lee, Y.-I., Lee, H., Koo, M.-W. & Cho, S.-W. (2015) Korean Semantic Similarity Measures for the Vector Space Models. Journal of the Korean society of speech sciences. Vol(7)4. [pdf](files/leeetal2015.pdf)
 
 <strong>Dec. 2015</strong>  
-Yang, H., Lee, Y.-I., Lee, H., Cho, S.-W., & Koo, M.-W.. (2015) A Study on Word Vector Models for Representing Korean Semantic Information. Journal of the Korean society of speech Sciences. Vol(7)4. [pdf]
+Yang, H., Lee, Y.-I., Lee, H., Cho, S.-W., & Koo, M.-W.. (2015) A Study on Word Vector Models for Representing Korean Semantic Information. Journal of the Korean society of speech Sciences. Vol(7)4. [pdf](files/yangetal2015.pdf)
 
 
 manuscripts/in prep
 
 <strong>May. 2020</strong>
-Reconstruction effects for Binding and Anti-Locality. Ms. Universität Leipzig. [pdf]
+Reconstruction effects for Binding and Anti-Locality. Ms. Universität Leipzig. [pdf](files/lee2021m.pdf)
 
 <strong>Sep. 2019</strong>
-Xu, G., Lee, H., Koo, M.-W.. & Seo, J. (in prep.) Optimizing Policy via Deep Reinforcement Learning for Dialogue Management. Transactions of the Association for Computational Linguistics.[pdf]
+Xu, G., Lee, H., Koo, M.-W.. & Seo, J. Optimizing Policy via Deep Reinforcement Learning for Dialogue Management.[pdf](files/Xu-Lee-Seo2017.pdf)
 
 <strong>Feb. 2019</strong>
-Born to be gradient: a case study from compound tensing in Korean. Ms. Universität Leipzig. [pdf]
+Born to be gradient: a case study from compound tensing in Korean. Ms. Universität Leipzig. [pdf](files/lee2019m.pdf)
 
 <strong>Jul. 2018</strong>
-Xu, G. & Lee, H. Toward Multi-lingual Natural Language Understanding Using Deep Neural Networks. Ms. Sogang University. [pdf]
+Xu, G. & Lee, H. Toward Multi-lingual Natural Language Understanding Using Deep Neural Networks. Ms. Sogang University. [pdf](files/xulee2018m.pdf)
 
 
 Presentations
@@ -86,40 +86,40 @@ Presentations
 
 
 <strong>Aug. 2022</strong>
-[with Imke Driemel](http://imke.driemel.net/doku.php/start) Pseudo-incorporation vs. Differential Argument Marking in Korean. GLOW in Asia XIII. Chinese University of Hong Kong. [pdf]
+[with Imke Driemel](http://imke.driemel.net/doku.php/start) Pseudo-incorporation vs. Differential Argument Marking in Korean. GLOW in Asia XIII. Chinese University of Hong Kong. [pdf](files/driemellee2022glow.pdf)
 
 <strong>May. 2019</strong>
-[with Daniel Gleim](https://home.uni-leipzig.de/gleim/) Fairies land only at midnight: on Laryngeal Sonorant/Vowel Roots in Korean. The 27th Manchester Phonology Meeting. [pdf]
+[with Daniel Gleim](https://home.uni-leipzig.de/gleim/) Fairies land only at midnight: on Laryngeal Sonorant/Vowel Roots in Korean. The 27th Manchester Phonology Meeting. [pdf](files/gleimlee2019mfm.pdf)
 
 <strong>May. 2019</strong>
-Innate Activity: Gradience in Korean Compound Tensing. The 42 Generative Linguistics in the Old World (GLOW) conference (Workshop 2, "Rules and Learning Strategies in the Acquisition of Signed and Spoken Phonologies.") in Oslo, Norway [pdf]
+Innate Activity: Gradience in Korean Compound Tensing. The 42 Generative Linguistics in the Old World (GLOW) conference (Workshop 2, "Rules and Learning Strategies in the Acquisition of Signed and Spoken Phonologies.") in Oslo, Norway [pdf](files/lee2019glow.pdf)
 
 <strong>Mar. 2019</strong>
-[with Mike Berger] Control is Agree: an Evidence from Korean. The 41st Annual Meeting of the DGfS (Deutsche Gesellschaft für Sprachwissenschaft) in Bremen, Germany. [pdf]
+[with Mike Berger] Control is Agree: an Evidence from Korean. The 41st Annual Meeting of the DGfS (Deutsche Gesellschaft für Sprachwissenschaft) in Bremen, Germany. [pdf](files/leeberger2019.pdf)
 
 <strong>Jan. 2019</strong>
-Born to Be Gradient: Predicting exceptions of Compound Tensing in Korean. The 16th Old World Conference on Phonology (OCP XVI) in Verona, Italy.[pdf]
+Born to Be Gradient: Predicting exceptions of Compound Tensing in Korean. The 16th Old World Conference on Phonology (OCP XVI) in Verona, Italy.[pdf](files/lee2019ocp.pdf)
 
 <strong>Jan. 2019</strong> 
-[with Daniel Gleim](https://home.uni-leipzig.de/gleim/) The Short Life Span of Laryngeal Sonorants in Korean. The 16th Old World Conference on Phonology (OCP XVI) in Verona, Italy. [pdf]
+[with Daniel Gleim](https://home.uni-leipzig.de/gleim/) The Short Life Span of Laryngeal Sonorants in Korean. The 16th Old World Conference on Phonology (OCP XVI) in Verona, Italy. [pdf](files/gleimlee2019.pdf)
 
 <strong>​Nov. 2018</strong>
-[with Imke Driemel](http://imke.driemel.net/doku.php/start) Pseudo-noun incorporation in Korean, Nominals at the Interfaces in Seoul, South Korea. [pdf]
+[with Imke Driemel](http://imke.driemel.net/doku.php/start) Pseudo-noun incorporation in Korean, Nominals at the Interfaces in Seoul, South Korea. [pdf]((files/driemellee2018.pdf))
 
 <strong>Oct. 2018</strong>
-[with Gereon Müller] Asymmetries in Long-Distance Dependencies: A View from Gradient Harmonic Grammar. Workshop: Long-distance dependencies in Berlin, Germany. [pdf]
+[with Gereon Müller](https://home.uni-leipzig.de/muellerg/) Asymmetries in Long-Distance Dependencies: A View from Gradient Harmonic Grammar. Workshop: Long-distance dependencies in Berlin, Germany. [pdf](files/leemueller2018.pdf)
 
 <strong>May. 2018</strong>
 Predicting Exceptionality of Sai-siot in Gradient Harmonic Grammar. The 1st Conference on Pokémonastics in Tokyo,  Japan.
 
 <strong>Mar. 2018</strong> 
-Asymmetry on left- and right-ward movement. The 40th Annual Meeting of the DGfS (Deutsche Gesellschaft für Sprachwissenschaft) in Stuttgart, Germany. [pdf]
+Asymmetry on left- and right-ward movement. The 40th Annual Meeting of the DGfS (Deutsche Gesellschaft für Sprachwissenschaft) in Stuttgart, Germany. [pdf](files/lee2018.pdf)
 
 <strong>Feb. 2018</strong>
-[with Irene Amato] Locality Constraint Gives an Insight to Suppletion. The 26th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXVI) at  University College London, England. [pdf]
+[with Irene Amato] Locality Constraint Gives an Insight to Suppletion. The 26th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXVI) at  University College London, England. [pdf](files/leeamato2018pdf.pdf)
 
 <strong>Jan. 2018</strong>    
-[with Guanghao Xu] Optimizing Policy via Deep Reinforcement Learning for Dialogue Management. IEEE International Conference on Big Data and Smart Computing (BigComp) in Shanghai, China. [pdf]
+[with Guanghao Xu] Optimizing Policy via Deep Reinforcement Learning for Dialogue Management. IEEE International Conference on Big Data and Smart Computing (BigComp) in Shanghai, China. [pdf](files/xuetal2018.pdf)
 
 <strong>Nov. 2017</strong>    
 [with Irene Amato] Suppletion under a locality constraint: an evidence from Korean. The 14th Conference on Typology and Grammar for Young Scholars at Institute for Linguistic Studies RAS, Russia. 
