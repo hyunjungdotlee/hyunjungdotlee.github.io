@@ -12,8 +12,6 @@ redirect_from:
 I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine) at the Universität Leipzig. My primary linguistic interest lies in exploring structures and constraints that underlie sentence formation within generative grammar. My dissertation focuses on syntactic movement in ditransitive constructions and investigates the A/A-bar asymmetries within these structures.  I am also affiliated witt DFG Scientific Network [Applicative alternations across languages (AAAL)](https://aaal.uni-koeln.de/). I have worked on natural language processing projects. Apart from my interests in Linguistics, I am also passionate about fighting racism (especially anti-Asian racism in Europe) and sexism, organizing women's empowerment workshops, and facilitating structural discourse on these issues. 
 
 
-
-
 Research Interests
 ------
 * Movement (Asymmetries in Left- & Rightward Movements, Scrambling, Extraposition)
@@ -22,28 +20,24 @@ Research Interests
 * Natural Language Processing (with Guanghao Xu)
 
 
-Publication
+Recent and Upcoming
 ------
 
-<em>in collection</em>
 
-<strong>Aug. 2021</strong>
-Lee, H. & Berger. M. (2021) On the obligatory versus no control split in Korean. <em>Non-canonical Control in a Cross-linguistic Perspective.</em> 107-135. (Eds) Anne Mucha, Jutta M. Hartmann and Beata Trawiński. [pdf](files/leeberger2021.pdf) <span class="pill pill-lg">linguistics</span> 
-
-<strong>Dec. 2018</strong>
-Lee, H. & Amato, I. (2018) A Hybrid Locality Constraint on Allomorph. <em>Snippet</em>. Issue 34 – Special issue on Non-local Contextual Allomorphy [pdf](files/leeamato2018snippets.pdf)  <span class="pill pill-lg">linguistics</span> 
-
-<strong>Dec. 2016 </strong>
-Lee, H, Lee, J & Koo, M.-W. (2016) A Novel Framework for User Intent Detect. <em>The Institute of Electronics and Engineers computer information society, Seoul section</em>. Outstanding Prize. [pdf](files/Lee2016b.pdf)  <span class="pill pill-nlp">NLP</span> 
-
-
-<em>in proceedings</em>
+Publication
+------
 
 <strong>Dec.2022</strong>
 Driemel, I. & Lee, H. Pseudo-incorporation vs. Differential Argument Marking in Korean. In Proceedings of GLOW in Asia XIII.  [lingbuzz/006855](https://ling.auf.net/lingbuzz/006855) <span class="pill pill-lg">linguistics</span> 
 
+<strong>Aug. 2021</strong>
+Lee, H. & Berger. M. (2021) On the obligatory versus no control split in Korean. <em>Non-canonical Control in a Cross-linguistic Perspective.</em> 107-135. (Eds) Anne Mucha, Jutta M. Hartmann and Beata Trawiński. [pdf](files/leeberger2021.pdf) <span class="pill pill-lg">linguistics</span> 
+
 <strong>Feb. 2019</strong>
 Lee, H. & Amato, I.  (2019) Locality Constraint Gives an Insight into Suppletion. In Proceedings of the Conference of the Student Organisation of Linguistics in Europe. [pdf](files/leeamato2019console.pdf) <span class="pill pill-lg">linguistics</span> 
+
+<strong>Dec. 2018</strong>
+Lee, H. & Amato, I. (2018) A Hybrid Locality Constraint on Allomorph. <em>Snippet</em>. Issue 34 – Special issue on Non-local Contextual Allomorphy [pdf](files/leeamato2018snippets.pdf)  <span class="pill pill-lg">linguistics</span> 
 
 <strong>Nov. 2017</strong>
 Lee, H. & Barrie, M. (2017) Complementizer Allomorphy in Busan Korean. In Proceedings of GLOW in Asia XI. MIT Working Papers in Linguistics. MIT Working Papers in Linguistics, Cambridge: MA. [pdf](files/BarrieLee2018glow.pdf) <span class="pill pill-lg">linguistics</span> 
@@ -54,11 +48,11 @@ Lee, H. (2017) Phasal Spell Out and Prosodic Domain. In Proceedings of 19th Seou
 <strong>Feb. 2017</strong>
 Xu, G. & Lee, H. (2017) Convolutional Neural Network using a Threshold Predictor for Multi-domain Dialogue. In Proceedings of 2017 IEEE International Conference on Big Data and Smart Computing (BigComp). [pdf](files/XuLeeKooSeo2017ieee.pdf) <span class="pill pill-nlp">NLP</span> 
 
-
-<em>peer-reviewed</em>
-
 <strong>Aug. 2017</strong>
 Xu, G., Lee, H., Koo, M.-W. & Seo, J. (2017) Retrieving Dialogue Distory in Deep Neural Networks for Spoken Language Understanding. Advances in Science, Technology and Engineering Systems Journal. [pdf](files/XuLeeKooSeo2017.pdf) <span class="pill pill-nlp">NLP</span> 
+
+<strong>Dec. 2016 </strong>
+Lee, H, Lee, J & Koo, M.-W. (2016) A Novel Framework for User Intent Detect. <em>The Institute of Electronics and Engineers computer information society, Seoul section</em>. Outstanding Prize. [pdf](files/Lee2016b.pdf)  <span class="pill pill-nlp">NLP</span> 
 
 <strong>Dec. 2015</strong>  
 Lee, Y.-I., Lee, H., Koo, M.-W. & Cho, S.-W. (2015) Korean Semantic Similarity Measures for the Vector Space Models. Journal of the Korean society of speech sciences. Vol(7)4. [pdf](files/leeetal2015.pdf) <span class="pill pill-nlp">NLP</span> 
@@ -67,7 +61,7 @@ Lee, Y.-I., Lee, H., Koo, M.-W. & Cho, S.-W. (2015) Korean Semantic Similarity M
 Yang, H., Lee, Y.-I., Lee, H., Cho, S.-W., & Koo, M.-W.. (2015) A Study on Word Vector Models for Representing Korean Semantic Information. Journal of the Korean society of speech Sciences. Vol(7)4. [pdf](files/yangetal2015.pdf) <span class="pill pill-nlp">NLP</span> 
 
 
-manuscripts/in prep
+<em>manuscripts/in prep</em>
 
 <strong>May. 2020</strong>
 Reconstruction effects for Binding and Anti-Locality. Ms. Universität Leipzig. [pdf](files/lee2021m.pdf) <span class="pill pill-lg">linguistics</span> 
@@ -85,9 +79,11 @@ Xu, G. & Lee, H. Toward Multi-lingual Natural Language Understanding Using Deep 
 Presentations
 ------
 
-
 <strong>Aug. 2022</strong>
 [with Imke Driemel](http://imke.driemel.net/doku.php/start) Pseudo-incorporation vs. Differential Argument Marking in Korean. GLOW in Asia XIII. Chinese University of Hong Kong. [pdf](files/driemellee2022glow.pdf) <span class="pill pill-lg">linguistics</span> 
+
+<strong>May. 2020</strong>
+Counter-bleeding effects: index valuation and movement. Opacity Symposium at Universität Leipzig, Germany. <span class="pill pill-lg">linguistics</span> 
 
 <strong>May. 2019</strong>
 [with Daniel Gleim](https://home.uni-leipzig.de/gleim/) Fairies land only at midnight: on Laryngeal Sonorant/Vowel Roots in Korean. The 27th Manchester Phonology Meeting. [pdf](files/gleimlee2019mfm.pdf) <span class="pill pill-lg">linguistics</span> 
@@ -112,6 +108,9 @@ Born to Be Gradient: Predicting exceptions of Compound Tensing in Korean. The 16
 
 <strong>May. 2018</strong>
 Predicting Exceptionality of Sai-siot in Gradient Harmonic Grammar. The 1st Conference on Pokémonastics in Tokyo, Japan. <span class="pill pill-lg">linguistics</span> 
+
+<strong>Apr. 2018</strong>
+[with Irene Amato](https://sites.google.com/view/ireneamato?pli=1) Optional Removal in Korean: A New Insight on Free Variation. Workshop on Shrinking Trees in Morphology at Universität Leipzig, Germany. <span class="pill pill-lg">linguistics</span> 
 
 <strong>Mar. 2018</strong> 
 Asymmetry on left- and right-ward movement. The 40th Annual Meeting of the DGfS (Deutsche Gesellschaft für Sprachwissenschaft) in Stuttgart, Germany. [pdf](files/lee2018.pdf) <span class="pill pill-lg">linguistics</span> 
@@ -156,12 +155,6 @@ The Distribution of Complementizer in South Kyungsang Korean. English Language &
 A study on Word Vector Model for Representing Korean Semantic Information. Korean Society of Speech Science (KSSS) International Conference at Ehwa Womans University, Korea. <span class="pill pill-nlp">NLP</span>  
 
 
-<em>non-refereed talkes</em>
 
-<strong>May. 2020</strong>
-Counter-bleeding effects: index valuation and movement. Opacity Symposium at Universität Leipzig, Germany. <span class="pill pill-lg">linguistics</span> 
-
-<strong>Apr. 2018</strong>
-[with Irene Amato](https://sites.google.com/view/ireneamato?pli=1) Optional Removal in Korean: A New Insight on Free Variation. Workshop on Shrinking Trees in Morphology at Universität Leipzig, Germany. <span class="pill pill-lg">linguistics</span> 
 
 
