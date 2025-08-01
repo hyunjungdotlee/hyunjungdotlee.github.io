@@ -97,6 +97,8 @@ Xu, G. & Lee, H. Toward Multi-lingual Natural Language Understanding Using Deep 
 
 Presentations
 ------
+<strong>Nov. 2024</strong> Race, Racism, and Asian Diaspora in Europe.  Humboldt-Universität zu Berlin, Germany. <span class="pill pill-ar">anti-racism</span> 
+
 <strong>Apr. 2024</strong>
 [with Lily Shim] Anti-Asian Racism through the Prism of Intersectionality: Gendered Racism and Racialized Queerness. UnKUT, University of Tübingen, Germany.
 
