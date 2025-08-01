@@ -86,10 +86,10 @@ Presentations
 
 
 <strong>Aug. 2022</strong>
-[with Imke Driemel] Pseudo-incorporation vs. Differential Argument Marking in Korean. GLOW in Asia XIII. Chinese University of Hong Kong. [pdf]
+[with Imke Driemel](http://imke.driemel.net/doku.php/start) Pseudo-incorporation vs. Differential Argument Marking in Korean. GLOW in Asia XIII. Chinese University of Hong Kong. [pdf]
 
 <strong>May. 2019</strong>
-[with Daniel Gleim] Fairies land only at midnight: on Laryngeal Sonorant/Vowel Roots in Korean. The 27th Manchester Phonology Meeting. [pdf]
+[with Daniel Gleim](https://home.uni-leipzig.de/gleim/) Fairies land only at midnight: on Laryngeal Sonorant/Vowel Roots in Korean. The 27th Manchester Phonology Meeting. [pdf]
 
 <strong>May. 2019</strong>
 Innate Activity: Gradience in Korean Compound Tensing. The 42 Generative Linguistics in the Old World (GLOW) conference (Workshop 2, "Rules and Learning Strategies in the Acquisition of Signed and Spoken Phonologies.") in Oslo, Norway [pdf]
@@ -101,10 +101,10 @@ Innate Activity: Gradience in Korean Compound Tensing. The 42 Generative Linguis
 Born to Be Gradient: Predicting exceptions of Compound Tensing in Korean. The 16th Old World Conference on Phonology (OCP XVI) in Verona, Italy.[pdf]
 
 <strong>Jan. 2019</strong> 
-[with Daniel Gleim] The Short Life Span of Laryngeal Sonorants in Korean. The 16th Old World Conference on Phonology (OCP XVI) in Verona, Italy. [pdf]
+[with Daniel Gleim](https://home.uni-leipzig.de/gleim/) The Short Life Span of Laryngeal Sonorants in Korean. The 16th Old World Conference on Phonology (OCP XVI) in Verona, Italy. [pdf]
 
 <strong>​Nov. 2018</strong>
-[with Imke Driemel] Pseudo-noun incorporation in Korean, Nominals at the Interfaces in Seoul, South Korea. [pdf]
+[with Imke Driemel](http://imke.driemel.net/doku.php/start) Pseudo-noun incorporation in Korean, Nominals at the Interfaces in Seoul, South Korea. [pdf]
 
 <strong>Oct. 2018</strong>
 [with Gereon Müller] Asymmetries in Long-Distance Dependencies: A View from Gradient Harmonic Grammar. Workshop: Long-distance dependencies in Berlin, Germany. [pdf]
@@ -128,16 +128,16 @@ Asymmetry on left- and right-ward movement. The 40th Annual Meeting of the DGfS 
 Tone Melody in Busan Korean Revisited. The 20th Biennial Meeting of the International Circle of Korean Linguistics (ICKL20) at University of Helsinki, Finland.
 
 <strong>Feb. 2017</strong>
-[with Michael Barrie] Complementizer Allomorphy in Busan Korean. Generative Linguistics in the GLOW in Asia XI at National University of Singapore, Singapore. 
+[(with Michael Barrie)](http://mikebarrie.com/) Complementizer Allomorphy in Busan Korean. Generative Linguistics in the GLOW in Asia XI at National University of Singapore, Singapore. 
 
 <strong>Feb. 2017</strong> 
-[with Guangho Xu] Convolutional Neural Network using a Threshold Predictor for Multi-label Speech Act Classification, 2017 IEEE International Conference on Big Data and Smart Computing (BigComp) in Jeju, Korea. 
+(with Guangho Xu) Convolutional Neural Network using a Threshold Predictor for Multi-label Speech Act Classification, 2017 IEEE International Conference on Big Data and Smart Computing (BigComp) in Jeju, Korea. 
 
 <strong>Jan. 2017</strong>
 Complementizer Agreement in Busan Korean. The 25th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXV) at Universität Leipzig, Germany.
 
 <strong>Nov. 2016</strong>
-[with Jeongpil Lee and Myoung-Wan Koo] A Study on User Intent Detect in the Wordpiece Model. 2016 International Conference on Speech Sciences (ICSS) at Seoul National University, Korea.
+A Study on User Intent Detect in the Wordpiece Model. 2016 International Conference on Speech Sciences (ICSS) at Seoul National University, Korea.
 
 <strong>Aug. 2016</strong>    
 The Left Periphery in Busan Korean Interrogatives. The 18th Seoul International Conference on Generative Grammar (SICOGG) in Sogang University, Korea. 
@@ -157,11 +157,11 @@ A study on Word Vector Model for Representing Korean Semantic Information. Korea
 
 <em>non-refereed talkes</em>
 
-<strong>May. 2020<strong>
+<strong>May. 2020<s/trong>
 Counter-bleeding effects: index valuation and movement. Opacity Symposium at Universität Leipzig, Germany.
 
-<strong>Apr. 2018<strong>
-[with Irene Amato] Optional Removal in Korean: A New Insight on Free Variation. Workshop on Shrinking Trees in Morphology at Universität Leipzig, Germany.
+<strong>Apr. 2018</strong>
+[with Irene Amato](https://sites.google.com/view/ireneamato?pli=1) Optional Removal in Korean: A New Insight on Free Variation. Workshop on Shrinking Trees in Morphology at Universität Leipzig, Germany.
 
 Apart from my interests in Linguistics,
 ------
