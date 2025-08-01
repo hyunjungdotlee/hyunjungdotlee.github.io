@@ -31,9 +31,11 @@ Lee, H., Shim, S. & Seong-yu, J. The Invisible and the Hypervisible: Anti-Asian 
 <strong>Oct. 2025</strong> Hypervisibility, Invisibility, and the Historico-Racial Schema: Rethinking Anti-Asian Racism in Europe
 Malmö Institute for Migration Studies, Malmö, Sweden <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Jul. 2025</strong> Dissonance as a Social Signal. <em>a.r.t.e.s. Forum. Disturbance: Dissonance</em>. Philosophische Fakultät, Universität zu Köln, Germany [pdf] <span class="pill pill-ar">anti-racism</span> 
+<strong>Aug. 2025</strong> [with Hansun Leem, Noor ul Sabah] Educational Systems as Racialized Structures: Narratives of Exclusion and Resistance Among Immigrant-Background Youth in Germany. The 5th Cultural Diversity, Migration, and Education (CDME). Universität Potsdam, Germany.
 
-<strong>Jun. 2025</strong> Anti-Asian Racism in Europe: Racilized realities and Community-led research. Seminar für Ostasien, Humboldt-Universität zu Berlin. <span class="pill pill-ar">anti-racism</span> 
+<strong>Jul. 2025</strong> Dissonance as a Social Signal. <em>a.r.t.e.s. Forum. Disturbance: Dissonance</em>. Philosophische Fakultät, Universität zu Köln, Germany. [pdf] <span class="pill pill-ar">anti-racism</span> 
+
+<strong>Jun. 2025</strong> Anti-Asian Racism in Europe: Racilized realities and Community-led research. Seminar für Ostasien, Humboldt-Universität zu Berlin, Germany. <span class="pill pill-ar">anti-racism</span> 
 
 <strong>April 2025</strong> The State of Anti-Racism in the EU and Germany: NAPAR Implementation and Legal Frameworks. DAAD working group. The University of Minnesota, Twin Cities. <span class="pill pill-ar">anti-racism</span> 
 
