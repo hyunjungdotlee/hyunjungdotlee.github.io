@@ -24,8 +24,9 @@ author:
   # Biographic information
   avatar           : "lees.png"
   name             : "Hyunjung Lee"
-  pronouns         :  "she/her"  
-  bio              : "[cv](files/CV_Lee_010625.pdf)"
+  pronouns         :  "she/her" 
+  cv_link: "/files/CV_Lee_010625.pdf"
+  bio              : #"bio"
   location         : "Beethovenstraße 15, 04107"
   employer         : "Universität Leipzig"
   uri              : # URL
