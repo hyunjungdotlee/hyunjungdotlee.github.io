@@ -45,7 +45,7 @@ Driemel, I. & Lee, H. Pseudo-incorporation vs. Differential Argument Marking in 
 Lee, H. & Amato, I.  (2019) Locality Constraint Gives an Insight into Suppletion. In Proceedings of the Conference of the Student Organisation of Linguistics in Europe. [pdf](files/leeamato2019console.pdf)
 
 <strong>Nov. 2017</strong>
-Lee, H. & Barrie, M. (2017) Complementizer Allomorphy in Busan Korean. In Proceedings of GLOW in Asia XI. MIT Working Papers in Linguistics. MIT Working Papers in Linguistics, Cambridge: MA.[pdf](files/BarrieLee2018glow.pdf)
+Lee, H. & Barrie, M. (2017) Complementizer Allomorphy in Busan Korean. In Proceedings of GLOW in Asia XI. MIT Working Papers in Linguistics. MIT Working Papers in Linguistics, Cambridge: MA. [pdf](files/BarrieLee2018glow.pdf)
 
 <strong>Aug. 2017</strong>
 Lee, H. (2017) Phasal Spell Out and Prosodic Domain. In Proceedings of 19th Seoul International Conference on Generative Grammar. The Korean Generative Grammar Cirlcle.
@@ -72,7 +72,7 @@ manuscripts/in prep
 Reconstruction effects for Binding and Anti-Locality. Ms. Universität Leipzig. [pdf](files/lee2021m.pdf)
 
 <strong>Sep. 2019</strong>
-Xu, G., Lee, H., Koo, M.-W.. & Seo, J. Optimizing Policy via Deep Reinforcement Learning for Dialogue Management.[pdf](files/Xu-Lee-Seo2017.pdf)
+Xu, G., Lee, H., Koo, M.-W.. & Seo, J. Optimizing Policy via Deep Reinforcement Learning for Dialogue Management. [pdf](files/Xu-Lee-Seo2017.pdf)
 
 <strong>Feb. 2019</strong>
 Born to be gradient: a case study from compound tensing in Korean. Ms. Universität Leipzig. [pdf](files/lee2019m.pdf)
@@ -98,7 +98,7 @@ Innate Activity: Gradience in Korean Compound Tensing. The 42 Generative Linguis
 [with Mike Berger] Control is Agree: an Evidence from Korean. The 41st Annual Meeting of the DGfS (Deutsche Gesellschaft für Sprachwissenschaft) in Bremen, Germany. [pdf](files/leeberger2019.pdf)
 
 <strong>Jan. 2019</strong>
-Born to Be Gradient: Predicting exceptions of Compound Tensing in Korean. The 16th Old World Conference on Phonology (OCP XVI) in Verona, Italy.[pdf](files/lee2019ocp.pdf)
+Born to Be Gradient: Predicting exceptions of Compound Tensing in Korean. The 16th Old World Conference on Phonology (OCP XVI) in Verona, Italy. [pdf](files/lee2019ocp.pdf)
 
 <strong>Jan. 2019</strong> 
 [with Daniel Gleim](https://home.uni-leipzig.de/gleim/) The Short Life Span of Laryngeal Sonorants in Korean. The 16th Old World Conference on Phonology (OCP XVI) in Verona, Italy. [pdf](files/gleimlee2019.pdf)
@@ -116,13 +116,13 @@ Predicting Exceptionality of Sai-siot in Gradient Harmonic Grammar. The 1st Conf
 Asymmetry on left- and right-ward movement. The 40th Annual Meeting of the DGfS (Deutsche Gesellschaft für Sprachwissenschaft) in Stuttgart, Germany. [pdf](files/lee2018.pdf)
 
 <strong>Feb. 2018</strong>
-[with Irene Amato] Locality Constraint Gives an Insight to Suppletion. The 26th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXVI) at  University College London, England. [pdf](files/leeamato2018pdf.pdf)
+[with Irene Amato](https://sites.google.com/view/ireneamato?pli=1) Locality Constraint Gives an Insight to Suppletion. The 26th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXVI) at  University College London, England. [pdf](files/leeamato2018pdf.pdf)
 
 <strong>Jan. 2018</strong>    
 [with Guanghao Xu] Optimizing Policy via Deep Reinforcement Learning for Dialogue Management. IEEE International Conference on Big Data and Smart Computing (BigComp) in Shanghai, China. [pdf](files/xuetal2018.pdf)
 
 <strong>Nov. 2017</strong>    
-[with Irene Amato] Suppletion under a locality constraint: an evidence from Korean. The 14th Conference on Typology and Grammar for Young Scholars at Institute for Linguistic Studies RAS, Russia. 
+[with Irene Amato](https://sites.google.com/view/ireneamato?pli=1) Suppletion under a locality constraint: an evidence from Korean. The 14th Conference on Typology and Grammar for Young Scholars at Institute for Linguistic Studies RAS, Russia. 
 
 <strong>Jun. 2017</strong>
 Tone Melody in Busan Korean Revisited. The 20th Biennial Meeting of the International Circle of Korean Linguistics (ICKL20) at University of Helsinki, Finland.
@@ -131,7 +131,7 @@ Tone Melody in Busan Korean Revisited. The 20th Biennial Meeting of the Internat
 [with Michael Barrie](http://mikebarrie.com/) Complementizer Allomorphy in Busan Korean. Generative Linguistics in the GLOW in Asia XI at National University of Singapore, Singapore. 
 
 <strong>Feb. 2017</strong> 
-(with Guangho Xu) Convolutional Neural Network using a Threshold Predictor for Multi-label Speech Act Classification, 2017 IEEE International Conference on Big Data and Smart Computing (BigComp) in Jeju, Korea. 
+[with Guangho Xu] Convolutional Neural Network using a Threshold Predictor for Multi-label Speech Act Classification, 2017 IEEE International Conference on Big Data and Smart Computing (BigComp) in Jeju, Korea. 
 
 <strong>Jan. 2017</strong>
 Complementizer Agreement in Busan Korean. The 25th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXV) at Universität Leipzig, Germany.
