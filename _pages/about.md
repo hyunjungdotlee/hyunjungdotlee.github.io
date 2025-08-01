@@ -23,15 +23,31 @@ Research Interests
 Recent and Upcoming
 ------
 
+<strong>Nov. 2025</strong> Civil Society Perspectives on Action and Advocacy. Cross-Sectoral Symposium Addressing Structural Racism, Diversity and Inclusion. Malmö, Sweden <span class="pill pill-ar">anti-racism</span> 
+
+<strong>Oct. 2025</strong>Hypervisibility, Invisibility, and the Historico-Racial Schema: Rethinking Anti-Asian Racism in Europe
+Malmö Institute for Migration Studies, Malmö, Sweden <span class="pill pill-ar">anti-racism</span> 
+
+<strong>Jul. 2025</strong> Dissonance as a Social Signal. <em>a.r.t.e.s. Forum. Disturbance: Dissonance</em>. Philosophische Fakultät, Universität zu Köln, Germany [pdf] <span class="pill pill-ar">anti-racism</span> 
+
+<strong>Jun. 2025</strong> Anti-Asian Racism in Europe: Racilized realities and Community-led research. Seminar für Ostasien, Humboldt-Universität zu Berlin. <span class="pill pill-ar">anti-racism</span> 
+
+<strong>April 2025</strong> The State of Anti-Racism in the EU and Germany: NAPAR Implementation and Legal Frameworks. DAAD working group. The University of Minnesota, Twin Cities. <span class="pill pill-ar">anti-racism</span> 
+
+
 
 Publication
 ------
+
+<strong>To appear</strong>
+Lee, H., Shim, S. & Seong-yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>Anti-Asian Racism in Transatlantic Perspectives</em> (Ed.) Kien Nghi Ha. [pdf] <span class="pill pill-ar">anti-racism</span> 
+
 
 <strong>Dec.2022</strong>
 Driemel, I. & Lee, H. Pseudo-incorporation vs. Differential Argument Marking in Korean. In Proceedings of GLOW in Asia XIII.  [lingbuzz/006855](https://ling.auf.net/lingbuzz/006855) <span class="pill pill-lg">linguistics</span> 
 
 <strong>Aug. 2021</strong>
-Lee, H. & Berger. M. (2021) On the obligatory versus no control split in Korean. <em>Non-canonical Control in a Cross-linguistic Perspective.</em> 107-135. (Eds) Anne Mucha, Jutta M. Hartmann and Beata Trawiński. [pdf](files/leeberger2021.pdf) <span class="pill pill-lg">linguistics</span> 
+Lee, H. & Berger. M. (2021) On the obligatory versus no control split in Korean. <em>Non-canonical Control in a Cross-linguistic Perspective.</em> 107-135. (Eds.) Anne Mucha, Jutta M. Hartmann and Beata Trawiński. [pdf](files/leeberger2021.pdf) <span class="pill pill-lg">linguistics</span> 
 
 <strong>Feb. 2019</strong>
 Lee, H. & Amato, I.  (2019) Locality Constraint Gives an Insight into Suppletion. In Proceedings of the Conference of the Student Organisation of Linguistics in Europe. [pdf](files/leeamato2019console.pdf) <span class="pill pill-lg">linguistics</span> 
@@ -76,8 +92,11 @@ Born to be gradient: a case study from compound tensing in Korean. Ms. Universit
 Xu, G. & Lee, H. Toward Multi-lingual Natural Language Understanding Using Deep Neural Networks. Ms. Sogang University. [pdf](files/xulee2018m.pdf) <span class="pill pill-nlp">NLP</span> 
 
 
+
 Presentations
 ------
+<strong>Apr. 2024</strong>
+[with Lily Shim] Anti-Asian Racism through the Prism of Intersectionality: Gendered Racism and Racialized Queerness. UnKUT, University of Tübingen, Germany.
 
 <strong>Aug. 2022</strong>
 [with Imke Driemel](http://imke.driemel.net/doku.php/start) Pseudo-incorporation vs. Differential Argument Marking in Korean. GLOW in Asia XIII. Chinese University of Hong Kong. [pdf](files/driemellee2022glow.pdf) <span class="pill pill-lg">linguistics</span> 
