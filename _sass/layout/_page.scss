@@ -372,6 +372,31 @@
   }
 }
 
+/*
+   Tags
+   ========================================================================== */
+
+.pill {
+  display: inline-block;
+  padding: 3px 10px;
+  font-size: 0.75em;
+  border-radius: 999px;
+  margin: 0 5px 5px 0;
+  color: #fff;
+  font-weight: 500;
+}
+
+.pill-linguistics {
+  background-color: #3b82f6;
+}
+
+.pill-education {
+  background-color: #10b981;
+}
+
+.pill-anti-racism {
+  background-color: #f97316;
+}
 
 /*
    Related
