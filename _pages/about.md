@@ -9,7 +9,8 @@ redirect_from:
 
 
 
-I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine) at the Universität Leipzig. My primary linguistic interest lies in exploring structures and constraints that underlie sentence formation within generative grammar. My dissertation focuses on syntactic movement in ditransitive constructions and investigates the A/A-bar asymmetries within these structures.  I am also affiliated witt DFG Scientific Network [Applicative alternations across languages (AAAL)](https://aaal.uni-koeln.de/). I also work on natural language processing projects. 
+I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine) at the Universität Leipzig. My primary linguistic interest lies in exploring structures and constraints that underlie sentence formation within generative grammar. My dissertation focuses on syntactic movement in ditransitive constructions and investigates the A/A-bar asymmetries within these structures.  I am also affiliated witt DFG Scientific Network [Applicative alternations across languages (AAAL)](https://aaal.uni-koeln.de/). I have worked on natural language processing projects. Apart from my interests in Linguistics, I am also passionate about fighting racism (especially anti-Asian racism in Europe) and sexism, organizing women's empowerment workshops, and facilitating structural discourse on these issues. 
+
 
 
 
@@ -163,8 +164,4 @@ Counter-bleeding effects: index valuation and movement. Opacity Symposium at Uni
 <strong>Apr. 2018</strong>
 [with Irene Amato](https://sites.google.com/view/ireneamato?pli=1) Optional Removal in Korean: A New Insight on Free Variation. Workshop on Shrinking Trees in Morphology at Universität Leipzig, Germany.
 
-Apart from my interests in Linguistics,
-------
-
-I am also passionate about fighting racism (especially anti-Asian racism in Europe) and sexism, organizing women's empowerment workshops, and facilitating structural discourse on these issues. 
 
