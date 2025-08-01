@@ -38,39 +38,31 @@ Lee, H, Lee, J & Koo, M.-W. (2016) A Novel Framework for User Intent Detect. <em
 
 <em>in proceedings</em>
 
-Dec.2022
-
+<strong>Dec.2022</strong>
 Driemel, I. & Lee, H. Pseudo-incorporation vs. Differential Argument Marking in Korean. In Proceedings of GLOW in Asia XIII.  [lingbuzz/006855](https://ling.auf.net/lingbuzz/006855)
 
-Feb. 2019
-
+<strong>Feb. 2019</strong>
 Lee, H. & Amato, I.  (2019) Locality Constraint Gives an Insight into Suppletion. In Proceedings of the Conference of the Student Organisation of Linguistics in Europe. [pdf](files/leeamato2019console.pdf)
 
-Nov. 2017
-
+<strong>Nov. 2017</strong>
 Lee, H. & Barrie, M. (2017) Complementizer Allomorphy in Busan Korean. In Proceedings of GLOW in Asia XI. MIT Working Papers in Linguistics. MIT Working Papers in Linguistics, Cambridge: MA.[pdf]
 
-Aug. 2017
-
+<strong>Aug. 2017</strong>
 Lee, H. (2017) Phasal Spell Out and Prosodic Domain. In Proceedings of 19th Seoul International Conference on Generative Grammar. The Korean Generative Grammar Cirlcle.
 
-Feb. 2017
-
+<strong>Feb. 2017</strong>
 Xu, G. & Lee, H. (2017) Convolutional Neural Network using a Threshold Predictor for Multi-domain Dialogue. In Proceedings of 2017 IEEE International Conference on Big Data and Smart Computing (BigComp). [pdf]
 
 
-peer-reviewed 
+<em>peer-reviewed</em>
 
-Aug. 2017
-
+<strong>Aug. 2017</strong>
 Xu, G., Lee, H., Koo, M.-W. & Seo, J. (2017) Retrieving Dialogue Distory in Deep Neural Networks for Spoken Language Understanding. Advances in Science, Technology and Engineering Systems Journal. [pdf]
 
-Dec. 2015  
-
+<strong>Dec. 2015</strong>  
 Lee, Y.-I., Lee, H., Koo, M.-W. & Cho, S.-W. (2015) Korean Semantic Similarity Measures for the Vector Space Models. Journal of the Korean society of speech sciences. Vol(7)4. [pdf]
 
-Dec. 2015  
-
+<strong>Dec. 2015</strong>  
 Yang, H., Lee, Y.-I., Lee, H., Cho, S.-W., & Koo, M.-W.. (2015) A Study on Word Vector Models for Representing Korean Semantic Information. Journal of the Korean society of speech Sciences. Vol(7)4. [pdf]
 
 
