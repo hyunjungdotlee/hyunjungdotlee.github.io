@@ -85,10 +85,10 @@ Yang, H., Lee, Y.-I., Lee, H., Cho, S.-W., & Koo, M.-W.. (2015) A Study on Word 
 Reconstruction effects for Binding and Anti-Locality. Ms. Universität Leipzig. [pdf](files/lee2021m.pdf) <span class="pill pill-lg">linguistics</span> 
 
 <strong>Sep. 2019</strong>
-Xu, G., Lee, H., Koo, M.-W.. & Seo, J. Optimizing Policy via Deep Reinforcement Learning for Dialogue Management. [pdf](files/Xu-Lee-Seo2017.pdf) <span class="pill pill-nlp">NLP</span> <span class="pill pill-lg">linguistics</span> 
+Xu, G., Lee, H., Koo, M.-W.. & Seo, J. Optimizing Policy via Deep Reinforcement Learning for Dialogue Management. [pdf](files/Xu-Lee-Seo2017.pdf) <span class="pill pill-nlp">NLP</span> 
 
 <strong>Feb. 2019</strong>
-Born to be gradient: a case study from compound tensing in Korean. Ms. Universität Leipzig. [pdf](files/lee2019m.pdf)
+Born to be gradient: a case study from compound tensing in Korean. Ms. Universität Leipzig. [pdf](files/lee2019m.pdf) <span class="pill pill-lg">linguistics</span> 
 
 <strong>Jul. 2018</strong>
 Xu, G. & Lee, H. Toward Multi-lingual Natural Language Understanding Using Deep Neural Networks. Ms. Sogang University. [pdf](files/xulee2018m.pdf) <span class="pill pill-nlp">NLP</span> 
