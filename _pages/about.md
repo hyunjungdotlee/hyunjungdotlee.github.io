@@ -37,7 +37,7 @@ Malmö Institute for Migration Studies, Malmö, Sweden <span class="pill pill-ar
 
 <strong>Jun. 2025</strong> Anti-Asian Racism in Europe: Racilized realities and Community-led research. Seminar für Ostasien, Humboldt-Universität zu Berlin, Germany. <span class="pill pill-ar">anti-racism</span> 
 
-<strong>April 2025</strong> The State of Anti-Racism in the EU and Germany: NAPAR Implementation and Legal Frameworks. DAAD working group. The University of Minnesota, Twin Cities. <span class="pill pill-ar">anti-racism</span> 
+<strong>April 2025</strong> The State of Anti-Racism in the EU and Germany: NAPAR Implementation and Legal Frameworks. DAAD working group. The University of Minnesota, Twin Cities. [pdf](files/leeshim2025daad.pdf) <span class="pill pill-ar">anti-racism</span> 
 
 
 Publication
