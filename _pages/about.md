@@ -31,7 +31,7 @@ Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian 
 <strong>Oct. 2025</strong> Hypervisibility, Invisibility, and the Historico-Racial Schema: Rethinking Anti-Asian Racism in Europe.
 Malmö Institute for Migration Studies, Malmö University, Sweden <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Aug. 2025</strong> [with Hansun Leem, Noor ul Sabah] Educational Systems as Racialized Structures: Narratives of Exclusion and Resistance Among Immigrant-Background Youth in Germany. The 5th Cultural Diversity, Migration, and Education (CDME). Universität Potsdam, Germany.
+<strong>Aug. 2025</strong> [with Hansun Leem, Noor ul Sabah] Educational Systems as Racialized Structures: Narratives of Exclusion and Resistance Among Immigrant-Background Youth in Germany. The 5th Cultural Diversity, Migration, and Education (CDME). Universität Potsdam, Germany. [pdf](files/Leeetal2025cdme.pdf)  <span class="pill pill-ed">education</span>
 
 <strong>Jul. 2025</strong> Dissonance as a Social Signal. <em>a.r.t.e.s. Forum. Disturbance: Dissonance</em>. Philosophische Fakultät, Universität zu Köln, Germany. [pdf](files/lee2025artes.pdf) <span class="pill pill-ar">anti-racism</span> 
 
