@@ -24,9 +24,13 @@ Research Interests
 Recent and Upcoming
 ------
 <strong>To appear</strong>
-Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>Anti-Asian Racism in Transatlantic Perspectives</em> (Ed.) Kien Nghi Ha. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
+Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>Anti-Asian Racism in Transatlantic Perspectives: History, Theory, Cultural Representation and Social Movements. </em> (Ed.) Kien Nghi Ha. Transcript: Postcolonial Studies. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Nov. 2025</strong> Civil Society Perspectives on Action and Advocacy. Cross-Sectoral Symposium Addressing Structural Racism, Diversity and Inclusion. Malmö, Sweden <span class="pill pill-ar">anti-racism</span> 
+<strong>Nov. 2025</strong> Civil Society Perspectives on Action and Advocacy. Cross-Sectoral Symposium Addressing Structural Racism, Diversity and Inclusion. Malmö, Sweden. <span class="pill pill-ar">anti-racism</span> 
+
+<strong>Nov. 2025</strong> TBA. invited talk. <em>PSY 1927: Asian American Experiences<\em>. The University of Minnesota, Twin Cities. <span class="pill pill-ar">anti-racism</span> 
+
+<strong>Nov. 2025</strong> TBA. invited talk. <em>Seminar Ausgewählte Schwerpunkte im Bereich Interkulturelle Psychologie<\em>. Universität Duisburg-Essen. <span class="pill pill-ar">anti-racism</span> <span class="pill pill-ed">education</span>
 
 <strong>Oct. 2025</strong> Hypervisibility, Invisibility, and the Historico-Racial Schema: Rethinking Anti-Asian Racism in Europe.
 Malmö Institute for Migration Studies, Malmö University, Sweden <span class="pill pill-ar">anti-racism</span> 
