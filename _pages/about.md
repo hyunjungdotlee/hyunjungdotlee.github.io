@@ -24,7 +24,7 @@ Research Interests
 Recent and Upcoming
 ------
 <strong>To appear</strong>
-Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>Anti-Asian Racism in Transatlantic Perspectives: History, Theory, Cultural Representation and Social Movements. </em> (Ed.) Kien Nghi Ha. Transcript: Postcolonial Studies. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
+Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>[Anti-Asian Racism in Transatlantic Perspectives: History, Theory, Cultural Representation and Social Movements](https://www.transcript-publishing.com/978-3-8376-7442-2/anti-asian-racism-in-transatlantic-perspectives/?c=410000056&number=978-3-8394-7442-6). </em> (Ed.) Kien Nghi Ha. Transcript: Postcolonial Studies. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Nov. 2025</strong> Civil Society Perspectives on Action and Advocacy. Cross-Sectoral Symposium Addressing Structural Racism, Diversity and Inclusion. Malmö, Sweden. <span class="pill pill-ar">anti-racism</span> 
 
