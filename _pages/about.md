@@ -30,9 +30,9 @@ Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian 
 
 <strong>Nov. 2025</strong> TBA. invited talk. <em>PSY 1927: Asian American Experiences</em>. The University of Minnesota, Twin Cities. <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Nov. 2025</strong> TBA. invited talk. <em>Seminar Ausgewählte Schwerpunkte im Bereich Interkulturelle Psychologie</em>. Universität Duisburg-Essen. [pdf](files/Lee2025UEssen.pdf) <span class="pill pill-ar">anti-racism</span> <span class="pill pill-ed">education</span>
+<strong>Nov. 2025</strong>  Hypervisibility and Invisibility: Rethinking Anti-Asian Racism in Europe. invited talk. <em>Seminar Ausgewählte Schwerpunkte im Bereich Interkulturelle Psychologie</em>. Universität Duisburg-Essen. [pdf](files/Lee2025UEssen.pdf) <span class="pill pill-ar">anti-racism</span> <span class="pill pill-ed">education</span>
 
-<strong>Oct. 2025</strong> Hypervisibility, Invisibility, and the Historico-Racial Schema: Rethinking Anti-Asian Racism in Europe.
+<strong>Oct. 2025</strong> Forever Foreigners or honorary white?: Anti-Asian Racism in Europe.
 invited talk. MIM seminar. Malmö Institute for Migration Studies, Malmö University, Sweden. [pdf](files/Lee2025mim.pdf)  <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Aug. 2025</strong> [with Hansun Leem, Noor ul Sabah] Educational Systems as Racialized Structures: Narratives of Exclusion and Resistance Among Immigrant-Background Youth in Germany. The 5th Cultural Diversity, Migration, and Education (CDME). Universität Potsdam, Germany. [pdf](files/Leeetal2025cdme.pdf)  <span class="pill pill-ed">education</span>
