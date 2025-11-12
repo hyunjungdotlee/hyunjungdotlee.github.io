@@ -28,7 +28,7 @@ Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian 
 
 <strong>Nov. 2025</strong> Civil Society Perspectives on Action and Advocacy. Cross-Sectoral Symposium Addressing Structural Racism, Diversity and Inclusion. panel discussion. Malmö, Sweden. <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Nov. 2025</strong> TBA. invited talk. <em>PSY 1927: Asian American Experiences</em>. The University of Minnesota, Twin Cities. <span class="pill pill-ar">anti-racism</span> 
+<strong>Nov. 2025</strong> TBA. invited talk. <em>PSY 1927: Asian American Experiences</em>. The University of Minnesota, Twin Cities.  [pdf](files/Lee2025UMinnesota.pdf) <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Nov. 2025</strong>  Hypervisibility and Invisibility: Rethinking Anti-Asian Racism in Europe. invited talk. <em>Seminar Ausgewählte Schwerpunkte im Bereich Interkulturelle Psychologie</em>. Universität Duisburg-Essen. [pdf](files/Lee2025UEssen.pdf) <span class="pill pill-ar">anti-racism</span> <span class="pill pill-ed">education</span>
 
