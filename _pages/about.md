@@ -26,23 +26,6 @@ Recent and Upcoming
 <strong>To appear</strong>
 Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>[Anti-Asian Racism in Transatlantic Perspectives: History, Theory, Cultural Representation and Social Movements](https://www.transcript-publishing.com/978-3-8376-7442-2/anti-asian-racism-in-transatlantic-perspectives/?c=410000056&number=978-3-8394-7442-6). </em> (Ed.) Kien Nghi Ha. Transcript: Postcolonial Studies. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Nov. 2025</strong> Civil Society Perspectives on Action and Advocacy. Cross-Sectoral Symposium Addressing Structural Racism, Diversity and Inclusion. panel discussion. Malmö, Sweden. <span class="pill pill-ar">anti-racism</span> 
-
-<strong>Nov. 2025</strong> Transnational and Transformative Counter-Frames. invited talk. <em>PSY 1927: Asian American Experiences</em>. The University of Minnesota, Twin Cities.  [pdf](files/Lee2025UMinnesota.pdf) <span class="pill pill-ar">anti-racism</span> 
-
-<strong>Nov. 2025</strong>  Hypervisibility and Invisibility: Rethinking Anti-Asian Racism in Europe. invited talk. <em>Seminar Ausgewählte Schwerpunkte im Bereich Interkulturelle Psychologie</em>. Universität Duisburg-Essen. [pdf](files/Lee2025UEssen.pdf) <span class="pill pill-ar">anti-racism</span> <span class="pill pill-ed">education</span>
-
-<strong>Oct. 2025</strong> Forever Foreigners or Honorary White?: Anti-Asian Racism in Europe.
-invited talk. MIM seminar. Malmö Institute for Migration Studies, Malmö University, Sweden. [pdf](files/Lee2025mim.pdf)  <span class="pill pill-ar">anti-racism</span> 
-
-<strong>Aug. 2025</strong> [with Hansun Leem, Noor ul Sabah] Educational Systems as Racialized Structures: Narratives of Exclusion and Resistance Among Immigrant-Background Youth in Germany. The 5th Cultural Diversity, Migration, and Education (CDME). Universität Potsdam, Germany. [pdf](files/Leeetal2025cdme.pdf)  <span class="pill pill-ed">education</span>
-
-<strong>Jul. 2025</strong> Dissonance as a Social Signal. invited talk. <em>a.r.t.e.s. Forum. Disturbance: Dissonance</em>.  Philosophische Fakultät, Universität zu Köln, Germany. [pdf](files/lee2025artes.pdf) <span class="pill pill-ar">anti-racism</span> 
-
-<strong>Jun. 2025</strong> Anti-Asian Racism in Europe: Racilized realities and Community-led research. invited talk. Seminar für Ostasien, Humboldt-Universität zu Berlin, Germany. <span class="pill pill-ar">anti-racism</span> 
-
-<strong>April 2025</strong> The State of Anti-Racism in the EU and Germany: NAPAR Implementation and Legal Frameworks. DAAD working group. The University of Minnesota, Twin Cities. [pdf](files/leeshim2025daad.pdf) <span class="pill pill-ar">anti-racism</span> 
-
 
 Publication
 ------
@@ -101,6 +84,23 @@ Xu, G. & Lee, H. Toward Multi-lingual Natural Language Understanding Using Deep 
 
 Presentations
 ------
+<strong>Nov. 2025</strong> Civil Society Perspectives on Action and Advocacy. Cross-Sectoral Symposium Addressing Structural Racism, Diversity and Inclusion. panel discussion. Malmö, Sweden. <span class="pill pill-ar">anti-racism</span> 
+
+<strong>Nov. 2025</strong> Transnational and Transformative Counter-Frames. invited talk. <em>PSY 1927: Asian American Experiences</em>. The University of Minnesota, Twin Cities.  [pdf](files/Lee2025UMinnesota.pdf) <span class="pill pill-ar">anti-racism</span> 
+
+<strong>Nov. 2025</strong>  Hypervisibility and Invisibility: Rethinking Anti-Asian Racism in Europe. invited talk. <em>Seminar Ausgewählte Schwerpunkte im Bereich Interkulturelle Psychologie</em>. Universität Duisburg-Essen. [pdf](files/Lee2025UEssen.pdf) <span class="pill pill-ar">anti-racism</span> <span class="pill pill-ed">education</span>
+
+<strong>Oct. 2025</strong> Forever Foreigners or Honorary White?: Anti-Asian Racism in Europe.
+invited talk. MIM seminar. Malmö Institute for Migration Studies, Malmö University, Sweden. [pdf](files/Lee2025mim.pdf)  <span class="pill pill-ar">anti-racism</span> 
+
+<strong>Aug. 2025</strong> [with Hansun Leem, Noor ul Sabah] Educational Systems as Racialized Structures: Narratives of Exclusion and Resistance Among Immigrant-Background Youth in Germany. The 5th Cultural Diversity, Migration, and Education (CDME). Universität Potsdam, Germany. [pdf](files/Leeetal2025cdme.pdf)  <span class="pill pill-ed">education</span>
+
+<strong>Jul. 2025</strong> Dissonance as a Social Signal. invited talk. <em>a.r.t.e.s. Forum. Disturbance: Dissonance</em>.  Philosophische Fakultät, Universität zu Köln, Germany. [pdf](files/lee2025artes.pdf) <span class="pill pill-ar">anti-racism</span> 
+
+<strong>Jun. 2025</strong> Anti-Asian Racism in Europe: Racilized realities and Community-led research. invited talk. Seminar für Ostasien, Humboldt-Universität zu Berlin, Germany. <span class="pill pill-ar">anti-racism</span> 
+
+<strong>April 2025</strong> The State of Anti-Racism in the EU and Germany: NAPAR Implementation and Legal Frameworks. DAAD working group. The University of Minnesota, Twin Cities. [pdf](files/leeshim2025daad.pdf) <span class="pill pill-ar">anti-racism</span> 
+
 <strong>Nov. 2024</strong> Race, Racism, and Asian Diaspora in Europe. DAAD working group. Humboldt-Universität zu Berlin, Germany. <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Apr. 2024</strong>
