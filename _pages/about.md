@@ -84,7 +84,7 @@ Xu, G. & Lee, H. Toward Multi-lingual Natural Language Understanding Using Deep 
 
 Presentations
 ------
-<strong>Nov. 2025</strong> Civil Society Perspectives on Action and Advocacy. Cross-Sectoral Symposium Addressing Structural Racism, Diversity and Inclusion. panel discussion. Malmö, Sweden. <span class="pill pill-ar">anti-racism</span> 
+<strong>Nov. 2025</strong> Civil Society Perspectives on Action and Advocacy. Cross-Sectoral Symposium Addressing Structural Racism, Diversity and Inclusion. <em>panel discussion</em>. Malmö, Sweden. <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Nov. 2025</strong> Transnational and Transformative Counter-Frames. invited talk. <em>PSY 1927: Asian American Experiences</em>. The University of Minnesota, Twin Cities.  [pdf](files/Lee2025UMinnesota.pdf) <span class="pill pill-ar">anti-racism</span> 
 
