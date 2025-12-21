@@ -15,8 +15,8 @@ I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-lei
 Research Interests
 ------
 * Movement (Asymmetries in Left- & Rightward Movements, Scrambling, Extraposition)
-* (No) Control and its licensing condition (with Mike Berger)
-* Locality Constraint on Suppletive Allomorph  (with Irene Amato)
+* (No) Control and its licensing condition (with [Mike Berger](https://www.uni-leipzig.de/personenprofil/mitarbeiter/mike-berger))
+* Locality Constraint on Suppletive Allomorph  (with [Irene Amato](https://sites.google.com/view/ireneamato?pli=1))
 * Natural Language Processing (with Guanghao Xu)
 * Decolonization, (anti-)racism, intersectionality theory, and discourses of power (with [Asian Voices Europe](https://www.asianvoiceseurope.org/))
 
@@ -33,7 +33,7 @@ Publication
 Asian Voices Europe. When Asian Voices Echo: Anti-Asian Racism in Europe. [pdf](https://www.asianvoiceseurope.org/survey)  <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Dec. 2022</strong>
-Driemel, I. & Lee, H. Pseudo-incorporation vs. Differential Argument Marking in Korean. In Proceedings of GLOW in Asia XIII.  [lingbuzz/006855](https://ling.auf.net/lingbuzz/006855) <span class="pill pill-lg">linguistics</span> 
+[Driemel, I](http://imke.driemel.net/doku.php/start). & Lee, H. Pseudo-incorporation vs. Differential Argument Marking in Korean. In Proceedings of GLOW in Asia XIII.  [lingbuzz/006855](https://ling.auf.net/lingbuzz/006855) <span class="pill pill-lg">linguistics</span> 
 
 <strong>Aug. 2021</strong>
 Lee, H. & Berger. M. (2021) On the obligatory versus no control split in Korean. <em>Non-canonical Control in a Cross-linguistic Perspective.</em> 107-135. (Eds.) Anne Mucha, Jutta M. Hartmann and Beata Trawiński. [pdf](files/leeberger2021.pdf) <span class="pill pill-lg">linguistics</span> 
