@@ -17,7 +17,7 @@ Research Interests
 * Movement (Asymmetries in Left- & Rightward Movements, Scrambling, Extraposition)
 * (No) Control and its licensing condition (with [Mike Berger](https://www.uni-leipzig.de/personenprofil/mitarbeiter/mike-berger))
 * Locality Constraint on Suppletive Allomorph  (with [Irene Amato](https://sites.google.com/view/ireneamato?pli=1))
-* Natural Language Processing (with Guanghao Xu)
+* Natural Language Processing (with [Guanghao Xu](https://scienceon.kisti.re.kr/srch/selectPORSrchRsrchman.do?cn=ADPER8901148839))
 * Decolonization, (anti-)racism, intersectionality theory, and discourses of power (with [Asian Voices Europe](https://www.asianvoiceseurope.org/))
 
 
@@ -45,7 +45,7 @@ Lee, H. & Amato, I.  (2019) Locality Constraint Gives an Insight into Suppletion
 Lee, H. & Amato, I. (2018) A Hybrid Locality Constraint on Allomorph. <em>Snippet</em>. Issue 34 – Special issue on Non-local Contextual Allomorphy [pdf](files/leeamato2018snippets.pdf)  <span class="pill pill-lg">linguistics</span> 
 
 <strong>Nov. 2017</strong>
-Lee, H. & Barrie, M. (2017) Complementizer Allomorphy in Busan Korean. In Proceedings of GLOW in Asia XI. MIT Working Papers in Linguistics. MIT Working Papers in Linguistics, Cambridge: MA. [pdf](files/BarrieLee2018glow.pdf) <span class="pill pill-lg">linguistics</span> 
+Lee, H. & [Barrie, M](http://mikebarrie.com/). (2017) Complementizer Allomorphy in Busan Korean. In Proceedings of GLOW in Asia XI. MIT Working Papers in Linguistics. MIT Working Papers in Linguistics, Cambridge: MA. [pdf](files/BarrieLee2018glow.pdf) <span class="pill pill-lg">linguistics</span> 
 
 <strong>Aug. 2017</strong>
 Lee, H. (2017) Phasal Spell Out and Prosodic Domain. In Proceedings of 19th Seoul International Conference on Generative Grammar. The Korean Generative Grammar Cirlcle. <span class="pill pill-lg">linguistics</span> 
@@ -93,7 +93,7 @@ Presentations
 <strong>Oct. 2025</strong> Forever Foreigners or Honorary White?: Anti-Asian Racism in Europe.
 invited talk. MIM seminar. Malmö Institute for Migration Studies, Malmö University, Sweden. [pdf](files/Lee2025mim.pdf)  <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Aug. 2025</strong> [with Hansun Leem, Noor ul Sabah] Educational Systems as Racialized Structures: Narratives of Exclusion and Resistance Among Immigrant-Background Youth in Germany. The 5th Cultural Diversity, Migration, and Education (CDME). Universität Potsdam, Germany. [pdf](files/Leeetal2025cdme.pdf)  <span class="pill pill-ed">education</span>
+<strong>Aug. 2025</strong> [with Hansun Leem, Noor ul Sabah] Educational Systems as Racialized Structures: Narratives of Exclusion and Resistance Among Immigrant-Background Youth in Germany. The 5th Cultural Diversity, Migration, and Education ([CDME](https://cdme-conference.de/)). Universität Potsdam, Germany. [pdf](files/Leeetal2025cdme.pdf)  <span class="pill pill-ed">education</span>
 
 <strong>Jul. 2025</strong> Dissonance as a Social Signal. invited talk. <em>a.r.t.e.s. Forum. Disturbance: Dissonance</em>.  Philosophische Fakultät, Universität zu Köln, Germany. [pdf](files/lee2025artes.pdf) <span class="pill pill-ar">anti-racism</span> 
 
