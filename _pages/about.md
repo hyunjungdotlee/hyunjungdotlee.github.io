@@ -26,7 +26,7 @@ Recent and Upcoming
 <strong>To appear</strong>
 Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>[Anti-Asian Racism in Transatlantic Perspectives: History, Theory, Cultural Representation and Social Movements](https://www.transcript-publishing.com/978-3-8376-7442-2/anti-asian-racism-in-transatlantic-perspectives/?c=410000056&number=978-3-8394-7442-6). </em> (Ed.) Kien Nghi Ha. Transcript: Postcolonial Studies. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Feb. 2026r</strong> Overcoming Structural Discrimination in Racialised Groups and Migrant Participation and Representation. panel debate. <em>[Racial Structural Discrimination and Migrant Voice: Who Gets Heard in European Democracies?](https://www.migpolgroup.com/index.php/2026/02/07/webinar-racial-discrimination/). </em><span class="pill pill-ar">anti-racism</span> 
+<strong>Feb. 2026</strong> Overcoming Structural Discrimination in Racialised Groups and Migrant Participation and Representation. panel debate. <em>[Racial Structural Discrimination and Migrant Voice: Who Gets Heard in European Democracies?](https://www.migpolgroup.com/index.php/2026/02/07/webinar-racial-discrimination/) </em><span class="pill pill-ar">anti-racism</span> 
 
 
 
