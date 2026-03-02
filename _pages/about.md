@@ -9,7 +9,8 @@ redirect_from:
 
 
 
-I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine) at the Universität Leipzig. My primary linguistic interest lies in exploring structures and constraints that underlie sentence formation within generative grammar. My dissertation focuses on syntactic movement in ditransitive constructions and investigates the A/A-bar asymmetries within these structures.  I am also affiliated witt DFG Scientific Network [Applicative alternations across languages (AAAL)](https://aaal.uni-koeln.de/), and have contributed to projects in natural language processing. Beyond linguistics, I am committed to anti-racist and feminist advocacy, especially addressing intersectional (anti-)Asian racism in Europe through fostering structural discourse on these issues. In 2025, I am carrying out Germany’s national assessment for [ENAR](https://www.enar-eu.org/)'s [Anti-Racism Map](https://www.enar-eu.org/napar/) project, focusing on evaluating the policy framework, political and legal landscape, and stakeholder engagement related to the implementation of the National Action Plan Against Racism.
+I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine) at the Universität Leipzig. My primary linguistic interest lies in exploring structures and constraints that underlie sentence formation within generative grammar. My dissertation focuses on syntactic movement in ditransitive constructions and investigates the A/A-bar asymmetries within these structures.  I am also affiliated witt DFG Scientific Network [Applicative alternations across languages (AAAL)](https://aaal.uni-koeln.de/), and have contributed to projects in natural language processing. 
+Beyond linguistics, I am committed to anti-racist and feminist advocacy addressing intersectional (anti-)Asian racism in Europe. I serve as Secretary of [Asian Voices Europe](https://www.asianvoiceseurope.org/), contributing to community-ledresearch, data-driven advocacy, and structural dialogue on racial justice. Since 2025, I am carrying out Germany’s national assessment for [ENAR](https://www.enar-eu.org/)'s [Anti-Racism Map](https://www.enar-eu.org/napar/) project, focusing on evaluating the policy framework, political and legal landscape, and stakeholder engagement related to the implementation of the National Action Plan Against Racism.
 
 
 Research Interests
@@ -17,6 +18,7 @@ Research Interests
 * Movement (Asymmetries in Left- & Rightward Movements, Scrambling, Extraposition)
 * (No) Control and its licensing condition (with [Mike Berger](https://www.uni-leipzig.de/personenprofil/mitarbeiter/mike-berger))
 * Locality Constraint on Suppletive Allomorph  (with [Irene Amato](https://sites.google.com/view/ireneamato?pli=1))
+* Pseudo-incorporation vs. Differential Argument Marking in Korean (with [Imke Driemel]([https://sites.google.com/view/ireneamato?pli=1](http://imke.driemel.net/start))
 * Natural Language Processing (with [Guanghao Xu](https://scienceon.kisti.re.kr/srch/selectPORSrchRsrchman.do?cn=ADPER8901148839))
 * Decolonization, (anti-)racism, intersectionality theory, and discourses of power (with [Asian Voices Europe](https://www.asianvoiceseurope.org/))
 
@@ -28,7 +30,7 @@ Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian 
 
 <strong>Mar. 2026</strong> Anti-Racist Contestations of Asian Diasporic Identities in Europe. <em> [Who is Asian? Definitions, Representations, and Marginalizations](https://www.universiteitleiden.nl/en/events/2026/03/who-is-asian-definitions-representations-and-marginalizations)</em>  <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Feb. 2026</strong>EU Anti-Racism Strategy 2026-2030: A Toothless Strategy?. <em>policy review</em>. <em>[link](https://www.migpolgroup.com/index.php/2026/02/07/webinar-racial-discrimination/) </em><span class="pill pill-ar">anti-racism</span> 
+<strong>Feb. 2026</strong> EU Anti-Racism Strategy 2026-2030: A Toothless Strategy?. <em>policy review</em>. <em>[link](https://www.migpolgroup.com/index.php/2026/02/07/webinar-racial-discrimination/) </em><span class="pill pill-ar">anti-racism</span> 
 
 <strong>Feb. 2026</strong> Overcoming Structural Discrimination in Racialised Groups and Migrant Participation and Representation. <em>panel debate</em>. <em>[Racial Structural Discrimination and Migrant Voice: Who Gets Heard in European Democracies?](https://www.migpolgroup.com/index.php/2026/02/07/webinar-racial-discrimination/) </em><span class="pill pill-ar">anti-racism</span> 
 
@@ -39,7 +41,6 @@ Publication
 ------
 <strong>Feb. 2024</strong>
 Asian Voices Europe. When Asian Voices Echo: Anti-Asian Racism in Europe. [pdf](https://www.asianvoiceseurope.org/survey)  <span class="pill pill-ar">anti-racism</span> 
-
 
 <strong>Dec. 2022</strong>
 [Driemel, I](http://imke.driemel.net/doku.php/start). & Lee, H. Pseudo-incorporation vs. Differential Argument Marking in Korean. In Proceedings of GLOW in Asia XIII.  [lingbuzz/006855](https://ling.auf.net/lingbuzz/006855) <span class="pill pill-lg">linguistics</span> 
