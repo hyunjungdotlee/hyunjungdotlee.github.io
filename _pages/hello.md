@@ -1,6 +1,6 @@
 ---
 title: "Hello"
-permalink: /friends-secret/
+permalink: /zweilee/
 layout: single
 author_profile: false
 ---
