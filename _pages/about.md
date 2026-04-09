@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<a href="/friends-secret/">Friends</a>
 
 I am a PhD candidate in the [IGRA graduate programme](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine) at the Universität Leipzig. My primary linguistic interest lies in exploring structures and constraints that underlie sentence formation within generative grammar. My dissertation focuses on syntactic movement in ditransitive constructions and investigates the A/A-bar asymmetries within these structures.  I am also affiliated witt DFG Scientific Network [Applicative alternations across languages (AAAL)](https://aaal.uni-koeln.de/), and have contributed to projects in natural language processing. 
 Beyond linguistics, I am committed to anti-racist and feminist advocacy addressing intersectional (anti-)Asian racism in Europe. I serve as Secretary of [Asian Voices Europe](https://www.asianvoiceseurope.org/), contributing to community-ledresearch, data-driven advocacy, and structural dialogue on racial justice. Since 2025, I am carrying out Germany’s national assessment for [ENAR](https://www.enar-eu.org/)'s [Anti-Racism Map](https://www.enar-eu.org/napar/) project, focusing on evaluating the policy framework, political and legal landscape, and stakeholder engagement related to the implementation of the National Action Plan Against Racism.
