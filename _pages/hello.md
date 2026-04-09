@@ -33,7 +33,7 @@ You can place here:
 <script>
 function checkPassword() {
 
-  const correct = "leipzigfriends";   // change this
+  const correct = "HyunjungMarkus";   // change this
   const entered = document.getElementById("pw").value;
 
   if (entered === correct) {
