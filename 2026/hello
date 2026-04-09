@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Friends Only</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <script>
+    if (sessionStorage.getItem("friend_access_granted") !== "yes") {
+      window.location.href = "index.html";
+    }
+  </script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 80px auto;
+      padding: 24px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello friends 👋</h1>
+  <p>This page is only for people who have the link and password.</p>
+
+  <p>You can put your text, photos, PDF link, or anything else here.</p>
+</body>
+</html>
