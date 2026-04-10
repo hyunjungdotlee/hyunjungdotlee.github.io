@@ -1,0 +1,108 @@
+---
+title: "Asian Diasporic Research Workshop"
+permalink: /adrw/
+layout: single
+author_profile: false
+published: true
+---
+
+<div id="login-box">
+  <h2>Private page</h2>
+  <p>Please enter the password. </p>
+
+  <input type="password" id="pw" placeholder="Password" />
+  <button type="button" onclick="checkPassword()">Enter</button>
+
+  <p id="error" style="color:red;"></p>
+</div>
+
+<div id="secret-content" style="display:none; margin-top:20px;">
+
+  <h2>🗓 Event Overview</h2>
+
+  <p><strong>Date:</strong> 15 May 2026<br>
+  <strong>Time:</strong> 10:00–14:00<br>
+  <strong>Location:</strong> Leipzig</p>
+
+  <p>This workshop focuses on creative poster-making as a tool for empowerment and expression.</p>
+
+  <hr>
+
+  <h2>📋 Programme</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Time</th>
+        <th>Session</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>10:00–10:15</td><td>Welcome & introduction</td></tr>
+      <tr><td>10:15–11:00</td><td>Talk: Visual storytelling</td></tr>
+      <tr><td>11:00–12:30</td><td>Poster workshop (hands-on)</td></tr>
+      <tr><td>12:30–13:00</td><td>Break</td></tr>
+      <tr><td>13:00–14:00</td><td>Presentation & discussion</td></tr>
+    </tbody>
+  </table>
+
+  <hr>
+
+  <h2>📝 Registration</h2>
+  <p><a href="https://your-link.com">Register here</a></p>
+
+  <hr>
+
+  <h2>❓ FAQ</h2>
+
+  <details>
+    <summary><strong>Do I need prior experience?</strong></summary>
+    <p>No, the workshop is open to all levels.</p>
+  </details>
+
+  <details>
+    <summary><strong>Do I need to bring materials?</strong></summary>
+    <p>Basic materials will be provided.</p>
+  </details>
+
+  <details>
+    <summary><strong>Is the workshop free?</strong></summary>
+    <p>Yes.</p>
+  </details>
+
+  <hr>
+
+  <h2>📩 Contact</h2>
+  <p>hyunjung.lee@uni-leipzig.de</p>
+
+</div>
+
+<script>
+function checkPassword() {
+  const correct = "2026!AsianDiaspora";
+  const entered = document.getElementById("pw").value.trim();
+
+  const loginBox = document.getElementById("login-box");
+  const content = document.getElementById("secret-content");
+  const error = document.getElementById("error");
+
+  if (entered === correct) {
+    loginBox.style.display = "none";
+    content.style.display = "block";
+    error.textContent = "";
+  } else {
+    error.textContent = "Wrong password.";
+  }
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+  const pw = document.getElementById("pw");
+  if (pw) {
+    pw.addEventListener("keydown", function(e) {
+      if (e.key === "Enter") {
+        checkPassword();
+      }
+    });
+  }
+});
+</script>
