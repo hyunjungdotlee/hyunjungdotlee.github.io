@@ -3,7 +3,10 @@ title: "Zweilee"
 permalink: /zweilee/
 layout: single
 author_profile: false
+published: true
 ---
+
+<div id="login-box">
 
 <h2>Private page</h2>
 <p>Please enter the password. 비밀번호를 입력하세요</p>
@@ -13,12 +16,9 @@ author_profile: false
 
 <p id="error" style="color:red;"></p>
 
-<div id="secret-content" style="display:none; margin-top:20px;">
-  <h3>Hello friends 👋</h3>
-  <p>This page is shared privately.</p>
 </div>
 
-
+<div id="secret-content" style="display:none; margin-top:20px;">
 
 ## 🗓 Event Overview
 
@@ -44,8 +44,6 @@ This workshop focuses on creative poster-making as a tool for empowerment and ex
 
 ## 📝 Registration
 
-Please register via this link:
-
 [Register here](https://your-link.com)
 
 ---
@@ -62,14 +60,14 @@ No, the workshop is open to all levels.
 <details>
 <summary><strong>Do I need to bring materials?</strong></summary>
 
-Basic materials will be provided, but you can bring your own.
+Basic materials will be provided.
 
 </details>
 
 <details>
 <summary><strong>Is the workshop free?</strong></summary>
 
-Yes, participation is free of charge.
+Yes.
 
 </details>
 
@@ -77,21 +75,24 @@ Yes, participation is free of charge.
 
 ## 📩 Contact
 
-For questions, please email:  
 hyunjung.lee@uni-leipzig.de
+
+</div>
 
 <script>
 function checkPassword() {
   const correct = "2606";
   const entered = document.getElementById("pw").value;
+
+  const loginBox = document.getElementById("login-box");
   const content = document.getElementById("secret-content");
   const error = document.getElementById("error");
 
   if (entered === correct) {
-    content.style.display = "block";
+    loginBox.style.display = "none";   // 🔥 hide password box
+    content.style.display = "block";   // 🔥 show content
     error.textContent = "";
   } else {
-    content.style.display = "none";
     error.textContent = "Wrong password.";
   }
 }
