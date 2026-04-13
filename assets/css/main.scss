@@ -41,22 +41,27 @@
     "vendor/font-awesome/brands"
 ;
 
+.greedy-nav {
+  display: flex;
+  align-items: center;
+}
+
 .lang-switch {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  z-index: 10;
+  margin-left: auto; /* pushes it to the far right */
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
 }
 
 .lang-switch a {
-  padding: 5px 10px;
-  margin-left: 6px;
-  background: white;
+  padding: 0.35rem 0.75rem;
+  background: #fff;
   border: 1px solid #ccc;
-  border-radius: 15px;
+  border-radius: 999px;
+  font-size: 0.8rem;
   text-decoration: none;
-  font-size: 13px;
   color: #333;
+  white-space: nowrap;
 }
 
 .lang-switch a:hover {
