@@ -27,13 +27,14 @@
           </li>
         </ul>
 
-        {% if page.show_lang_switch %}
-          <div class="lang-switch">
-            <a href="{{ '/zweilee-ko/' | relative_url }}">한국어</a>
-           <a href="{{ '/zweilee-de/' | relative_url }}">Deutsch</a>
-               <a href="{{ '/zweilee-en/' | relative_url }}">English</a>
-          </div>
-        {% endif %}
+
+{% if page.show_lang_switch %}
+  <div class="lang-switch">
+    <a href="{{ '/zweilee-ko/' | relative_url }}">한국어</a>
+    <a href="{{ '/zweilee-de/' | relative_url }}">Deutsch</a>
+    <a href="{{ '/zweilee-en/' | relative_url }}">English</a>
+  </div>
+{% endif %}
 
         <ul class="hidden-links hidden"></ul>
       </nav>
