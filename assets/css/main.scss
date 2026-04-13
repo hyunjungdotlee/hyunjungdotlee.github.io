@@ -41,6 +41,17 @@
     "vendor/font-awesome/brands"
 ;
 
+@media (max-width: 768px) {
+  .lang-switch {
+    gap: 0.15rem;
+  }
+
+  .lang-switch a {
+    padding: 0.2rem 0.4rem;
+    font-size: 0.7rem;
+  }
+}
+
 .greedy-nav {
   display: flex;
   align-items: center;
@@ -51,10 +62,12 @@
   display: flex;
   gap: 0.5rem;
   align-items: center;
+     gap: 0.25rem;  /* ↓ tighter spacing */
 }
 
 .lang-switch a {
-  padding: 0.35rem 0.75rem;
+   padding: 0.25rem 0.55rem; /* ↓ less horizontal space */
+     font-size: 0.75rem;
   background: #fff0f5;
   border: 1px solid #f3c6d3;
   border-radius: 999px;
