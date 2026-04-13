@@ -1,0 +1,173 @@
+---
+title: "🦆🦆Hyunjung  &amp; Markus "
+permalink: /zweilee-en/
+layout: single
+author_profile: false
+published: true
+---
+
+<div id="login-box">
+  <h2>Please enter the password ⁽⁽ଘ(*ˊᵕˋ(*ˊᵕˋ )ଓ⁾⁾ </h2>
+
+
+  <input type="password" id="pw" placeholder="Password" />
+  
+  <button type="button" onclick="checkPassword()">Enter</button>
+
+  <p id="error" style="color:red;"></p>
+</div>
+
+<div id="secret-content" style="display:none; margin-top:20px;">
+
+
+<section class="page__content">
+
+  <h2>Hi lovely humans 💛   </h2>
+
+  
+  <p> We’re just two silly and slightly chaotic people who somehow decided to get married — and now we get to celebrate it with you (best part, honestly).  
+So let’s keep this space warm, silly, and kind — just like the people we love being around✨  </p>
+
+<p style="text-align:center;">
+  <img src="{{'/images/IMG_8701.jpeg'}}" alt="Photo" style="width:320px;">
+</p>
+  
+  <hr>
+
+  
+
+  <h2>🗓 Date &amp; Location</h2>
+  <p>
+    <strong>Date:</strong> June 27, Saturday, 2026<br>
+    <strong>Time:</strong> 16:00 <br>
+    <strong>Venue:</strong>  Glasfabrik, Franz-Flemming-Straße 25, Leipzig <br>
+  </p>
+
+
+  
+  <h2>🕰 Schedule of the Day</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Time</th>
+        <th>Session</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>10:00–10:15</td><td>Welcome & introduction</td></tr>
+      <tr><td>10:15–11:00</td><td>Talk: Visual storytelling</td></tr>
+      <tr><td>11:00–12:30</td><td>Poster workshop (hands-on)</td></tr>
+      <tr><td>12:30–13:00</td><td>Break</td></tr>
+      <tr><td>13:00–14:00</td><td>Presentation & discussion</td></tr>
+    </tbody>
+  </table>
+
+  <hr>
+
+
+ 
+  <h2>🤝 Code of Conduct</h2>
+
+
+
+<p>
+We want everyone to feel safe, relaxed, and welcome. We are committed to creating a respectful, inclusive, and non-judgmental space.  By joining, you agree to: 
+</p>
+
+<ul>
+  <li><strong>Be respectful:</strong> Treat everyone with dignity, regardless of background, identity, or experience.</li>
+  <li><strong>Inclusivity:</strong> We aim to create a safer space for every guest.</li>
+  <li>🚫 <strong>No harassment:</strong> Unwanted attention, racism, discrimination, harassment or aggressive behavior is never tolerated.</li>
+  <li><strong>Consent & boundaries:</strong> Respect personal boundaries in interactions, discussions, and documentation (e.g. photos).</li>
+  <li><strong>Shared responsibility:</strong> We all contribute to maintaining a supportive and accountable environment.</li>
+    <li>🛑 <strong>Consent matters:</strong> Always ask before physical contact, photos, or sharing content.</li>
+    <li>🫶 <strong>Look out for each other:</strong> Check in, especially if someone seems unwell or overwhelmed.</li>
+</ul>  
+  
+<p>
+If you experience or witness any issues, please contact on-site safe-space supervisors.
+</p>
+
+
+
+
+  <h2>❓ FAQ</h2>
+
+  <details>
+    <summary><strong>I have read the Code of Contact. What happens if one violates against it?</strong></summary>
+    <p>[Answer]</p>
+  </details>
+
+
+    <details>
+    <summary><strong>Is there any dress code? </strong></summary>
+    <p>No. We hope that you wear whatever you feel comfortable from formal, cocktail attire, customs, etc.</p>
+  </details>
+
+
+
+    <details>
+    <summary><strong>Which food do we have?</strong></summary>
+    <p>  Dinner and drinks will be provided including Vegetariaan and vegan options. </p>
+  </details>
+
+  
+  <details>
+    <summary><strong>I need a recommendation for accommodation in Leipzig </strong></summary>
+    <p>Please ask us.</p>
+  </details>
+
+  <details>
+    <summary><strong>Are children invited?</strong></summary>
+    <p>Children are welcome. We will have child-feel-good supervisors. </p>
+  </details>
+
+  <details>
+    <summary><strong>Do you have a gift registry?</strong></summary>
+    <p>Your presence is the greatest gift to us. If you wish to give something, a contribution towards our future plans would be warmly appreciated.
+  </p></p>
+  </details>
+
+  <details>
+    <summary><strong>Who should I contact on the day?</strong></summary>
+    <p>[Name + phone/email]</p>
+  </details>
+
+
+
+
+  <h2>📩 Contact</h2>
+  <p>You can directly send a message or make a phone call to Hyunjung or Markus. Or, you can also ask a question via this form. </p>
+
+</div>
+
+<script>
+function checkPassword() {
+  const correct = "2706";
+  const entered = document.getElementById("pw").value.trim();
+
+  const loginBox = document.getElementById("login-box");
+  const content = document.getElementById("secret-content");
+  const error = document.getElementById("error");
+
+  if (entered === correct) {
+    loginBox.style.display = "none";
+    content.style.display = "block";
+    error.textContent = "";
+  } else {
+    error.textContent = "Wrong password.";
+  }
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+  const pw = document.getElementById("pw");
+  if (pw) {
+    pw.addEventListener("keydown", function(e) {
+      if (e.key === "Enter") {
+        checkPassword();
+      }
+    });
+  }
+});
+</script>
