@@ -45,7 +45,7 @@
 
 @media (max-width: 600px) {
   .lang-switch {
-    margin-right: 0.75rem;  /* slightly tighter */
+    margin-right: 1.5rem;  /* slightly tighter */
     gap: 0.2rem;
   }
 
@@ -62,7 +62,7 @@
 
 .lang-switch {
   margin-left: auto; /* pushes it to the far right */
-  margin-right: 1rem;
+  margin-right: 2rem;
   display: flex;
   gap: 0.5rem;
   align-items: center;
