@@ -1,0 +1,14 @@
+<header class="masthead">
+  <div class="masthead__inner-wrap">
+
+    {% include masthead.html %}
+
+    {% if page.show_lang_switch %}
+      <div class="lang-switch">
+        <a href="{{ '/zweilee-en/' | relative_url }}">EN</a>
+        <a href="{{ '/zweilee-kr/' | relative_url }}">한국어</a>
+      </div>
+    {% endif %}
+
+  </div>
+</header>
