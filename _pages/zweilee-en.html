@@ -20,21 +20,33 @@ published: true
 <div id="secret-content" style="display:none; margin-top:20px;">
 
 
-  <div style="
+<div style="
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background: #fff8dc;
-  padding: 10px;
-  text-align: center;
+  top: 15px;
+  right: 20px;
   z-index: 9999;
-  border-bottom: 1px solid #ccc;
+  display: flex;
+  gap: 8px;
 ">
-  한국어
-  <a href="/zweilee-ko/" style="margin-left:10px; font-weight:bold;">
-    View details
-  </a>
+  <a href="{{ '/zweilee-en/' | relative_url }}" style="
+    padding: 6px 12px;
+    background: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 14px;
+    color: #333;
+  ">EN</a>
+
+  <a href="{{ '/zweilee-ko/' | relative_url }}" style="
+    padding: 6px 12px;
+    background: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 14px;
+    color: #333;
+  ">한국어</a>
 </div>
   
 <section class="page__content">
