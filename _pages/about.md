@@ -195,7 +195,3 @@ A study on Word Vector Model for Representing Korean Semantic Information. Korea
 
 
 
-<a href="/zweilee/" style="font-size:0.8rem; opacity:0.4; text-decoration:none;">zweilee</a>
-
-
-
