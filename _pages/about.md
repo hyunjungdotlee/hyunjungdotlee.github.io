@@ -28,10 +28,10 @@ Recent and Upcoming
 Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>[Anti-Asian Racism in Transatlantic Perspectives: History, Theory, Cultural Representation and Social Movements](https://www.transcript-publishing.com/978-3-8376-7442-2/anti-asian-racism-in-transatlantic-perspectives/?c=410000056&number=978-3-8394-7442-6). </em> (Ed.) Kien Nghi Ha. Transcript: Postcolonial Studies. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
 
 
-<strong>Mar. 2026</strong> Rethinking anti-Asian racism and diasporic visibility in Europe. <em> [Forschungskolloquium](https://www.psychologie.uni-hannover.de/institut/news-und-veranstaltungen)</em> Leibniz Universität Hannover. <em> invited talk. </em>
+<strong>Apr. 2026</strong> Rethinking anti-Asian racism and diasporic visibility in Europe. <em> [Forschungskolloquium](https://www.psychologie.uni-hannover.de/institut/news-und-veranstaltungen)</em> Leibniz Universität Hannover. <em> invited talk. </em>
  [pdf](files/LeeUHnv2026b.pdf)  <span class="pill pill-ar">anti-racism</span> 
 
- <strong>Mar. 2026</strong> Racialized experiences of Asian diasporas. <em> guest lecture. </em>  Leibniz Universität Hannover.
+ <strong>Apr. 2026</strong> Racialized experiences of Asian diasporas. <em> guest lecture. </em>  Leibniz Universität Hannover.
  [pdf](files/LeeUHnv2026a.pdf)  <span class="pill pill-ar">anti-racism</span> 
 
 
