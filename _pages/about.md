@@ -27,7 +27,15 @@ Recent and Upcoming
 <strong>To appear</strong>
 Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>[Anti-Asian Racism in Transatlantic Perspectives: History, Theory, Cultural Representation and Social Movements](https://www.transcript-publishing.com/978-3-8376-7442-2/anti-asian-racism-in-transatlantic-perspectives/?c=410000056&number=978-3-8394-7442-6). </em> (Ed.) Kien Nghi Ha. Transcript: Postcolonial Studies. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Mar. 2026</strong> Anti-Racist Contestations of Asian Diasporic Identities in Europe. <em> [Who is Asian? Definitions, Representations, and Marginalizations](https://www.universiteitleiden.nl/en/events/2026/03/who-is-asian-definitions-representations-and-marginalizations)</em> [pdf](files/WuLeeGuoLi2026.pdf)  <span class="pill pill-ar">anti-racism</span> 
+
+<strong>Mar. 2026</strong> Rethinking anti-Asian racism and diasporic visibility in Europe. <em> [Forschungskolloquium](https://www.psychologie.uni-hannover.de/institut/news-und-veranstaltungen)</em> Leibniz Universität Hannover. <em> invited talk. </em>
+ [pdf](files/LeeUHnv2026b.pdf)  <span class="pill pill-ar">anti-racism</span> 
+
+ <strong>Mar. 2026</strong> Racialized experiences of Asian diasporas. <em> guest lecture. </em>  Leibniz Universität Hannover.
+ [pdf](files/LeeUHnv2026a.pdf)  <span class="pill pill-ar">anti-racism</span> 
+
+
+<strong>Mar. 2026</strong> Anti-Racist Contestations of Asian Diasporic Identities in Europe. <em> [Who is Asian? Definitions, Representations, and Marginalizations](https://www.universiteitleiden.nl/en/events/2026/03/who-is-asian-definitions-representations-and-marginalizations)</em> Leiden University. [pdf](files/WuLeeGuoLi2026.pdf)  <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Feb. 2026</strong> EU Anti-Racism Strategy 2026-2030: A Toothless Strategy?. <em>policy review</em>. <em>[link](https://www.migpolgroup.com/index.php/2026/02/07/webinar-racial-discrimination/) </em><span class="pill pill-ar">anti-racism</span> 
 
