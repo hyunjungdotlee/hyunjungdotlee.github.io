@@ -37,7 +37,7 @@ Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian 
 
 <strong>Mar. 2026</strong> Anti-Racist Contestations of Asian Diasporic Identities in Europe. <em> [Who is Asian? Definitions, Representations, and Marginalizations](https://www.universiteitleiden.nl/en/events/2026/03/who-is-asian-definitions-representations-and-marginalizations)</em> Leiden University. [pdf](files/WuLeeGuoLi2026.pdf)  <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Feb. 2026</strong> EU Anti-Racism Strategy 2026-2030: A Toothless Strategy?. <em>policy review</em>. <em>[link](https://www.migpolgroup.com/index.php/2026/02/07/webinar-racial-discrimination/) </em><span class="pill pill-ar">anti-racism</span> 
+<strong>Feb. 2026</strong> EU Anti-Racism Strategy 2026-2030: A Toothless Strategy?. <em>policy review</em>. <em>[link](https://www.asianvoiceseurope.org/blog/2026-toothless-strategy) </em><span class="pill pill-ar">anti-racism</span> 
 
 <strong>Feb. 2026</strong> Overcoming Structural Discrimination in Racialised Groups and Migrant Participation and Representation. <em>panel debate</em>. <em>[Racial Structural Discrimination and Migrant Voice: Who Gets Heard in European Democracies?](https://www.migpolgroup.com/index.php/2026/02/07/webinar-racial-discrimination/) </em><span class="pill pill-ar">anti-racism</span> 
 
