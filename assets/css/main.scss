@@ -92,42 +92,10 @@
 }
 
 
-
-<style>
-#login-box {
-  max-width: 400px;
-  margin: 40px auto;
-  text-align: center;
-}
-
 #pw {
-  width: 100%;
-  padding: 12px;
-  font-size: 16px;
-
-  /* IMPORTANT */
   color: #000 !important;
   background-color: #fff !important;
   caret-color: #000;
-
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  box-sizing: border-box;
-
-  /* Helps Android/Safari render password dots */
   -webkit-text-fill-color: #000;
 }
-
-#pw::placeholder {
-  color: #888;
-}
-
-button {
-  margin-top: 12px;
-  padding: 10px 18px;
-  border-radius: 8px;
-  border: none;
-  cursor: pointer;
-}
-</style>
 
