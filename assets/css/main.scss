@@ -82,7 +82,6 @@
 /* hanging image */
 .lang-switch::before {
   content: "";
-padding: 0.2rem 0.4rem;
   width: 42px;
   height: 42px;
 
@@ -92,7 +91,11 @@ padding: 0.2rem 0.4rem;
 
   display: inline-block;
   margin-right: 6px;
+     transform: translateY(6px);
 }
+
+
+
 
 
 
