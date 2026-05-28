@@ -78,6 +78,26 @@
   background: #f5f5f5;
 }
 
+
+/* hanging image */
+.lang-switch::before {
+  content: "";
+  
+  width: 42px;
+  height: 42px;
+
+  background-image: url('/images/prideflag.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  display: inline-block;
+
+  transform: rotate(-6deg);
+  margin-right: 6px;
+}
+
+
+
 @media (max-width: 600px) {
   .lang-switch {
     margin-left: 0;
