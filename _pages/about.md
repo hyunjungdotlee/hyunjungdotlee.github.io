@@ -34,9 +34,9 @@ Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian 
 
 
 <strong>Jun. 2026</strong> Civil society as a catalyst for anti-racism studies and knowledge production in Europe. The 23rd IMISCOE Annual Conference
-Strengthening Migration Studies through Community Engagement ([The EU Anti-Racism Strategy 2026-2030](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/combatting-discrimination/racism-and-xenophobia/consultation-process_en/).  University of Girona, Spain  <span class="pill pill-ar">anti-racism</span> 
+Strengthening Migration Studies through Community Engagement   University of Girona, Spain  <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Jun. 2026</strong> Inaugural Meeting of the Renewed Permanent Anti-Racism Forum. European Commission. Brussels. <span class="pill pill-ar">anti-racism</span> 
+<strong>Jun. 2026</strong> Inaugural Meeting of the Renewed Permanent Anti-Racism Forum. ([The EU Anti-Racism Strategy 2026-2030](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/combatting-discrimination/racism-and-xenophobia/consultation-process_en/). European Commission. Brussels. <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Apr. 2026</strong> Rethinking anti-Asian racism and diasporic visibility in Europe. <em> [Forschungskolloquium](https://www.psychologie.uni-hannover.de/institut/news-und-veranstaltungen)</em> Leibniz Universität Hannover. <em> invited talk. </em>
  [pdf](files/LeeUHnv2026b.pdf)  <span class="pill pill-ar">anti-racism</span> 
