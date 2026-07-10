@@ -28,7 +28,7 @@ Recent and Upcoming
 Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>[Anti-Asian Racism in Transatlantic Perspectives: History, Theory, Cultural Representation and Social Movements](https://www.transcript-publishing.com/978-3-8376-7442-2/anti-asian-racism-in-transatlantic-perspectives/?c=410000056&number=978-3-8394-7442-6). </em> (Ed.) Kien Nghi Ha. Transcript: Postcolonial Studies. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
 
 
-<strong>Jul. 2026</strong> Über Asian Voices Europe und seine Arbeit zu anti-asiatischem Rassismus. [resistant theatre. queering resistance](https://www.wkv-stuttgart.de/programm/2026/ausstellungen/resistant-theatre/queering-resitance/).  Württembergische Kunstverein Stuttgart. <em> invited talk. </em> <span class="pill pill-ar">anti-racism</span> 
+<strong>Jul. 2026</strong> [with Jiye Seong] Über Asian Voices Europe und seine Arbeit zu anti-asiatischem Rassismus. [resistant theatre. queering resistance](https://www.wkv-stuttgart.de/programm/2026/ausstellungen/resistant-theatre/queering-resitance/).  Württembergische Kunstverein Stuttgart. <em> invited talk. </em> <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Jul. 2026</strong> Online consultation on anti-Asian racism through education. [UNESCO’s flagship project Addressing racism in and through education](https://www.unesco.org/en/articles/unesco-launches-new-programme-address-racism-and-through-education-europe). <span class="pill pill-ed">education</span> <span class="pill pill-ar">anti-racism</span> 
 
@@ -36,7 +36,7 @@ Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian 
 <strong>Jun. 2026</strong> Civil society as a catalyst for anti-racism studies and knowledge production in Europe. The 23rd IMISCOE Annual Conference
 Strengthening Migration Studies through Community Engagement   University of Girona, Spain  <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Jun. 2026</strong> Inaugural Meeting of the Renewed Permanent Anti-Racism Forum. ([The EU Anti-Racism Strategy 2026-2030](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/combatting-discrimination/racism-and-xenophobia/consultation-process_en/). European Commission. Brussels. <span class="pill pill-ar">anti-racism</span> 
+<strong>Jun. 2026</strong> Inaugural Meeting of the Renewed Permanent Anti-Racism Forum. [The EU Anti-Racism Strategy 2026-2030](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/combatting-discrimination/racism-and-xenophobia/consultation-process_en/). European Commission. Brussels. <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Apr. 2026</strong> Rethinking anti-Asian racism and diasporic visibility in Europe. <em> [Forschungskolloquium](https://www.psychologie.uni-hannover.de/institut/news-und-veranstaltungen)</em> Leibniz Universität Hannover. <em> invited talk. </em>
  [pdf](files/LeeUHnv2026b.pdf)  <span class="pill pill-ar">anti-racism</span> 
@@ -50,8 +50,6 @@ Strengthening Migration Studies through Community Engagement   University of Gir
 <strong>Feb. 2026</strong> EU Anti-Racism Strategy 2026-2030: A Toothless Strategy?. <em>policy review</em>. <em>[link](https://www.asianvoiceseurope.org/blog/2026-toothless-strategy) </em><span class="pill pill-ar">anti-racism</span> 
 
 <strong>Feb. 2026</strong> Overcoming Structural Discrimination in Racialised Groups and Migrant Participation and Representation. <em>panel debate</em>. <em>[Racial Structural Discrimination and Migrant Voice: Who Gets Heard in European Democracies?](https://www.migpolgroup.com/index.php/2026/02/07/webinar-racial-discrimination/) </em><span class="pill pill-ar">anti-racism</span> 
-
-
 
 
 Publication
