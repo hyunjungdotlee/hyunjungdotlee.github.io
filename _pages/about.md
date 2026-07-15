@@ -32,8 +32,7 @@ Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian 
 
 <strong>Jul. 2026</strong> Online consultation on anti-Asian racism through education. [UNESCO’s flagship project Addressing racism in and through education](https://www.unesco.org/en/articles/unesco-launches-new-programme-address-racism-and-through-education-europe). <span class="pill pill-ed">education</span> <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Jun. 2026</strong> Civil society as a catalyst for anti-racism studies and knowledge production in Europe. The 23rd IMISCOE Annual Conference
-Strengthening Migration Studies through Community Engagement   University of Girona, Spain  [pdf](files/Lee2026imiscoe.pdf)  <span class="pill pill-ar">anti-racism</span> 
+<strong>Jun. 2026</strong> Civil society as a catalyst for anti-racism studies and knowledge production in Europe. [The 23rd IMISCOE Annual Conference Strengthening Migration Studies through Community Engagement](https://www.imiscoe.org/events/imiscoe-events/2418-23rd-imiscoe-annual-conference-2026). University of Girona, Spain  [pdf](files/Lee2026imiscoe.pdf)  <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Jun. 2026</strong> Inaugural Meeting of the Renewed Permanent Anti-Racism Forum. [The EU Anti-Racism Strategy 2026-2030](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/combatting-discrimination/racism-and-xenophobia/consultation-process_en/). European Commission. Brussels. <span class="pill pill-ar">anti-racism</span> 
 
@@ -46,7 +45,7 @@ Strengthening Migration Studies through Community Engagement   University of Gir
 
 <strong>Mar. 2026</strong> Anti-Racist Contestations of Asian Diasporic Identities in Europe. <em> [Who is Asian? Definitions, Representations, and Marginalizations](https://www.universiteitleiden.nl/en/events/2026/03/who-is-asian-definitions-representations-and-marginalizations)</em> Leiden University. [pdf](files/WuLeeGuoLi2026.pdf)  <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Feb. 2026</strong> EU Anti-Racism Strategy 2026-2030: A Toothless Strategy?. <em>policy review</em>. <em>[link](https://www.asianvoiceseurope.org/blog/2026-toothless-strategy) </em><span class="pill pill-ar">anti-racism</span> 
+<strong>Feb. 2026</strong> EU Anti-Racism Strategy 2026-2030: A Toothless Strategy? <em>policy review</em>. <em>[link](https://www.asianvoiceseurope.org/blog/2026-toothless-strategy) </em><span class="pill pill-ar">anti-racism</span> 
 
 <strong>Feb. 2026</strong> Overcoming Structural Discrimination in Racialised Groups and Migrant Participation and Representation. <em>panel debate</em>. <em>[Racial Structural Discrimination and Migrant Voice: Who Gets Heard in European Democracies?](https://www.migpolgroup.com/index.php/2026/02/07/webinar-racial-discrimination/) </em><span class="pill pill-ar">anti-racism</span> 
 
