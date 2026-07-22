@@ -30,7 +30,7 @@ Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian 
 
 <strong>Jul. 2026</strong> [with Jiye Seong] Activism through resilience, solidarity, and joy. [<em>resistant theatre. queering resistance</em>](https://www.wkv-stuttgart.de/programm/2026/ausstellungen/resistant-theatre/queering-resitance/).  Württembergische Kunstverein Stuttgart. <em> invited talk. </em> [pdf](files/SeongLee2026kws.pdf)  <span class="pill pill-ar">anti-racism</span> 
 
-<strong>Jul. 2026</strong> Online consultation on anti-Asian racism through education. [UNESCO’s flagship project Addressing racism in and through education](https://www.unesco.org/en/articles/unesco-launches-new-programme-address-racism-and-through-education-europe). <span class="pill pill-ed">education</span> <span class="pill pill-ar">anti-racism</span> 
+<strong>Jul. 2026</strong> Online consultation on anti-Asian racism through education. [UNESCO’s flagship project Addressing racism in and through education](https://www.unesco.org/en/articles/unesco-launches-new-programme-address-racism-and-through-education-europe). <em> discussant. </em> <span class="pill pill-ed">education</span> <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Jun. 2026</strong> Civil society as a catalyst for anti-racism studies and knowledge production in Europe. [The 23rd IMISCOE Annual Conference Strengthening Migration Studies through Community Engagement](https://www.imiscoe.org/events/imiscoe-events/2418-23rd-imiscoe-annual-conference-2026). University of Girona, Spain  [pdf](files/Lee2026imiscoe.pdf)  <span class="pill pill-ar">anti-racism</span> 
 
