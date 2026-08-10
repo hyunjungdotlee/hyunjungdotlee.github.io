@@ -73,7 +73,7 @@ button {
 
   <hr>
 
-  <h2>📋 Programme</h2>
+  <h2>📋 Program</h2>
 
   
   <b>Day 0: Pre-event "Crossing borders with camera forward"</b>
@@ -124,9 +124,6 @@ This workshop will serve as a foundational step in developing a collaborative fr
 
 
 
-
-
-<p>{{ site.data.speakers["amina-khan"].bio }}</p>
   
   <b>Day 1: August 27, 2026 “New East and Southeast Asian diasporic perspectives in research and on public discourse”</b>
   
@@ -144,7 +141,13 @@ th:first-child {
       </tr>
     </thead>
     <tbody>
-      <tr><td>9:00–9:10</td><td>Welcome & organizational remarks </td><td>Sayaka Osanami Törngren, Malmö University </td></tr>
+      <tr><td>9:00–9:10</td><td>Welcome & organizational remarks </td><td>
+        <a href="#"
+     class="speaker-link"
+     data-speaker-id="sayaka-osanami-torngren">
+    Sayaka Osanami Törngren
+  </a>,
+  Malmö University </td></tr>
       <tr><td>9:10–9:50</td><td>Keynote, TBD </td><td>Nadine Nakamura, California School of Professional Psychology, Alliant University, San Diego</td></tr>
       <tr><td>9:50–10:15</td><td>Q&A </td><td>Linda Juang, University of Potsdam</td></tr>
       <tr><td>10:15–10:30</td><td>Short break </td><td> </td></tr>
@@ -253,6 +256,10 @@ th:first-child {
 
   
 </div>
+
+{% include speaker-modal.html %}
+<script src="{{ '/assets/js/speakers.js' | relative_url }}"></script>
+
 
 <script>
 function checkPassword() {
