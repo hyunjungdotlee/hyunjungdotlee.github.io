@@ -1,0 +1,82 @@
+<dialog id="speaker-modal">
+  <button id="close-modal" aria-label="Close profile">×</button>
+
+  <img id="speaker-photo" alt="">
+  <h2 id="speaker-name"></h2>
+  <p id="speaker-role"></p>
+  <p id="speaker-bio"></p>
+  <p id="speaker-links"></p>
+</dialog>
+
+<script>
+const speakers = {
+  "amina-khan": {
+    name: "Dr. Amina Khan",
+    role: "University of Example",
+    bio: "Amina researches participatory design and digital education.",
+    photo: "images/amina-khan.jpg",
+    website: "https://example.com"
+  },
+
+  "james-lee": {
+    name: "James Lee",
+    role: "Example Institute",
+    bio: "James works on open-source research infrastructure.",
+    photo: "images/james-lee.jpg",
+    website: "https://example.org"
+  }
+};
+
+const modal = document.querySelector("#speaker-modal");
+const photo = document.querySelector("#speaker-photo");
+const name = document.querySelector("#speaker-name");
+const role = document.querySelector("#speaker-role");
+const bio = document.querySelector("#speaker-bio");
+const links = document.querySelector("#speaker-links");
+
+function openSpeakerProfile(speakerId) {
+  const speaker = speakers[speakerId];
+  if (!speaker) return;
+
+  name.textContent = speaker.name;
+  role.textContent = speaker.role;
+  bio.textContent = speaker.bio;
+
+  photo.src = speaker.photo;
+  photo.alt = `Portrait of ${speaker.name}`;
+
+  links.innerHTML = speaker.website
+    ? `<a href="${speaker.website}" target="_blank" rel="noopener">
+         Visit personal website
+       </a>`
+    : "";
+
+  modal.showModal();
+}
+
+document.querySelectorAll(".speaker-link").forEach(link => {
+  link.addEventListener("click", event => {
+    event.preventDefault();
+
+    const speakerId = link.dataset.speaker;
+    history.replaceState(null, "", `#${speakerId}`);
+    openSpeakerProfile(speakerId);
+  });
+});
+
+document.querySelector("#close-modal").addEventListener("click", () => {
+  modal.close();
+  history.replaceState(null, "", location.pathname);
+});
+
+modal.addEventListener("click", event => {
+  if (event.target === modal) {
+    modal.close();
+  }
+});
+
+const initialSpeaker = location.hash.slice(1);
+if (initialSpeaker) {
+  openSpeakerProfile(initialSpeaker);
+}
+</script>
