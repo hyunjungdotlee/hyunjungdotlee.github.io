@@ -1,0 +1,15 @@
+<dialog id="speaker-modal">
+  <button
+    type="button"
+    id="speaker-modal-close"
+    aria-label="Close">
+    ×
+  </button>
+
+  <h2 id="speaker-modal-name"></h2>
+  <p id="speaker-modal-bio"></p>
+</dialog>
+
+<script id="speaker-data" type="application/json">
+  {{ site.data.speakers | jsonify }}
+</script>
