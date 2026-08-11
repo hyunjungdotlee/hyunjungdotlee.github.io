@@ -49,13 +49,41 @@ button {
 
   <div id="secret-content" style="display:none; margin-top:20px;">
 
-  <h2 id="schedule">🗓 Workshop schedule</h2>
 
-  <p>
-    <strong>Date:</strong> August 27-28, 2026<br>
-    <strong>Location:</strong> Auditorium, Jacob-und-Wilhelm-Grimm-Zentrum, HU Berlin Geschwister-Scholl-Straße 1, 10117 Berlin </p>
+    <div class="floating-nav">
 
-  <hr>
+  <button type="button"
+          class="floating-menu-button"
+          onclick="toggleContents()"
+          aria-label="Open contents">
+    ☰ Contents
+  </button>
+
+  <div id="floating-contents" class="floating-contents">
+    <a href="#schedule" onclick="closeContents()">Workshop schedule</a>
+    <a href="#purpose" onclick="closeContents()">Purpose</a>
+    <a href="#program" onclick="closeContents()">Program</a>
+    <a href="#padlet" onclick="closeContents()">Shared idea board</a>
+    <a href="#day0" onclick="closeContents()">Day 0</a>
+    <a href="#day1" onclick="closeContents()">Day 1</a>
+    <a href="#day2" onclick="closeContents()">Day 2</a>
+    <a href="#house-rules" onclick="closeContents()">House Rules</a>
+    <a href="#registration" onclick="closeContents()">Registration</a>
+    <a href="#faq" onclick="closeContents()">FAQ</a>
+    <a href="#organizers" onclick="closeContents()">Organizers</a>
+  </div>
+
+  <button type="button"
+          id="back-to-top"
+          class="back-to-top"
+          onclick="scrollToTop()"
+          aria-label="Back to top">
+    ↑
+  </button>
+
+</div>
+
+  
 
   <!-- TABLE OF CONTENTS START -->
   <details class="toc">
@@ -76,6 +104,14 @@ button {
     </ul>
   </details>
   <!-- TABLE OF CONTENTS END -->
+
+  <hr>
+
+  <h2 id="schedule">🗓 Workshop schedule</h2>
+
+  <p>
+    <strong>Date:</strong> August 27-28, 2026<br>
+    <strong>Location:</strong> Auditorium, Jacob-und-Wilhelm-Grimm-Zentrum, HU Berlin Geschwister-Scholl-Straße 1, 10117 Berlin </p>
 
   <hr>
 
@@ -330,9 +366,10 @@ th:first-child {
   
 </div>
 
+
+
 {% include speaker-modal.html %}
 <script src="{{ '/assets/js/speakers.js' | relative_url }}"></script>
-
 
 <script>
 function checkPassword() {
@@ -354,12 +391,62 @@ function checkPassword() {
 
 document.addEventListener("DOMContentLoaded", function () {
   const pw = document.getElementById("pw");
+
   if (pw) {
     pw.addEventListener("keydown", function(e) {
       if (e.key === "Enter") {
         checkPassword();
       }
     });
+  }
+});
+
+
+/* Floating contents menu */
+function toggleContents() {
+  const menu = document.getElementById("floating-contents");
+  menu.classList.toggle("show");
+}
+
+function closeContents() {
+  const menu = document.getElementById("floating-contents");
+  menu.classList.remove("show");
+}
+
+function scrollToTop() {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
+}
+
+
+/* Show back-to-top button after scrolling */
+window.addEventListener("scroll", function () {
+  const button = document.getElementById("back-to-top");
+
+  if (!button) return;
+
+  if (window.scrollY > 400) {
+    button.style.display = "block";
+  } else {
+    button.style.display = "none";
+  }
+});
+
+
+/* Close contents menu when clicking outside */
+document.addEventListener("click", function (event) {
+  const menu = document.getElementById("floating-contents");
+  const menuButton = document.querySelector(".floating-menu-button");
+
+  if (!menu || !menuButton) return;
+
+  if (
+    !menu.contains(event.target) &&
+    !menuButton.contains(event.target)
+  ) {
+    menu.classList.remove("show");
   }
 });
 </script>
