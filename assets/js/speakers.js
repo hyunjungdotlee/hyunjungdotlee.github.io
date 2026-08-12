@@ -4,6 +4,9 @@ document.addEventListener("DOMContentLoaded", function () {
   const modalBio = document.getElementById("speaker-modal-bio");
   const closeButton = document.getElementById("speaker-modal-close");
 
+  const modalLinkWrapper = document.getElementById("speaker-modal-link-wrapper");
+  const modalLink = document.getElementById("speaker-modal-link");
+
   const speakerDataElement = document.getElementById("speaker-data");
 
   if (!modal || !speakerDataElement) {
@@ -27,6 +30,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
       modalName.textContent = speaker.name || "";
       modalBio.textContent = speaker.bio || "";
+
+      if (speaker.website) {
+        modalLink.href = speaker.website;
+        modalLink.textContent = speaker.website_label || "Website";
+        modalLinkWrapper.style.display = "block";
+      } else {
+        modalLink.href = "#";
+        modalLinkWrapper.style.display = "none";
+      }
 
       modal.showModal();
     });
