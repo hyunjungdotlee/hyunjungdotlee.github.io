@@ -4,8 +4,9 @@ permalink: /adrw/
 layout: single
 author_profile: false
 published: true
-
 ---
+
+
 
 <style>
 #pw {
@@ -36,1036 +37,339 @@ button {
 }
 </style>
 
-<div id="top"></div>
-
 <div id="login-box">
-  <h2></h2>
+  <h2> </h2>
+  <p>Please enter the password. </p>
 
-  <p>Please enter the password.</p>
-
-  <input
-    type="password"
-    id="pw"
-    placeholder="Password"
-  />
-
-  <button
-    type="button"
-    onclick="checkPassword()">
-    Enter
-  </button>
+  <input type="password" id="pw" placeholder="Password" />
+  <button type="button" onclick="checkPassword()">Enter</button>
 
   <p id="error" style="color:red;"></p>
 </div>
 
+  <div id="secret-content" style="display:none; margin-top:20px;">
 
-<div id="secret-content" style="display:none; margin-top:20px;">
 
-  <!-- DESKTOP FLOATING CONTENTS NAVIGATION -->
-  <div class="floating-nav">
+    <div class="floating-nav">
 
-    <button
-      type="button"
-      class="floating-menu-button"
-      onclick="toggleContents()"
-      aria-label="Open contents">
-      ☰ Contents
-    </button>
+  <button type="button"
+          class="floating-menu-button"
+          onclick="toggleContents()"
+          aria-label="Open contents">
+    ☰ Contents
+  </button>
 
-    <div
-      id="floating-contents"
-      class="floating-contents">
-
-      <a href="#schedule" onclick="closeContents()">Workshop schedule</a>
-      <a href="#purpose" onclick="closeContents()">Purpose</a>
-      <a href="#program" onclick="closeContents()">Program</a>
-      <a href="#padlet" onclick="closeContents()">Shared idea board</a>
-      <a href="#day0" onclick="closeContents()">Day 0</a>
-      <a href="#day1" onclick="closeContents()">Day 1</a>
-      <a href="#day2" onclick="closeContents()">Day 2</a>
-      <a href="#house-rules" onclick="closeContents()">House Rules</a>
-      <a href="#registration" onclick="closeContents()">Registration</a>
-      <a href="#faq" onclick="closeContents()">FAQ</a>
-      <a href="#organizers" onclick="closeContents()">Organizers</a>
-
-    </div>
-
-    <button
-      type="button"
-      id="back-to-top"
-      class="back-to-top"
-      onclick="scrollToTop()"
-      aria-label="Back to top">
-      ↑
-    </button>
-
+  <div id="floating-contents" class="floating-contents">
+    <a href="#schedule" onclick="closeContents()">Workshop schedule</a>
+    <a href="#purpose" onclick="closeContents()">Purpose</a>
+    <a href="#program" onclick="closeContents()">Program</a>
+    <a href="#padlet" onclick="closeContents()">Shared idea board</a>
+    <a href="#day0" onclick="closeContents()">Day 0</a>
+    <a href="#day1" onclick="closeContents()">Day 1</a>
+    <a href="#day2" onclick="closeContents()">Day 2</a>
+    <a href="#house-rules" onclick="closeContents()">House Rules</a>
+    <a href="#registration" onclick="closeContents()">Registration</a>
+    <a href="#faq" onclick="closeContents()">FAQ</a>
+    <a href="#organizers" onclick="closeContents()">Organizers</a>
   </div>
 
+  <button type="button"
+          id="back-to-top"
+          class="back-to-top"
+          onclick="scrollToTop()"
+          aria-label="Back to top">
+    ↑
+  </button>
+
+</div>
+
+  
+
+  <!-- TABLE OF CONTENTS START -->
+  <details class="toc">
+    <summary>📑 Contents</summary>
+
+    <ul>
+       <li><a href="#schedule">Workshop schedule</a></li>
+      <li><a href="#purpose">Purpose of the workshop</a></li>
+      <li><a href="#program">Program</a></li>
+      <li><a href="#padlet">Our shared idea board</a></li>
+      <li><a href="#day0">Day 0: Pre-event</a></li>
+      <li><a href="#day1">Day 1: August 27</a></li>
+      <li><a href="#day2">Day 2: August 28</a></li>
+      <li><a href="#house-rules">House Rules</a></li>
+      <li><a href="#registration">Registration</a></li>
+      <li><a href="#faq">FAQ</a></li>
+      <li><a href="#organizers">Organizers</a></li>
+    </ul>
+  </details>
+  <!-- TABLE OF CONTENTS END -->
 
   <hr>
-
 
   <h2 id="schedule">🗓 Workshop schedule</h2>
 
   <p>
     <strong>Date:</strong> August 27-28, 2026<br>
-    <strong>Location:</strong>
-    Auditorium, Jacob-und-Wilhelm-Grimm-Zentrum,
-    HU Berlin,
-    Geschwister-Scholl-Straße 1,
-    10117 Berlin
-  </p>
-
+    <strong>Location:</strong> Auditorium, Jacob-und-Wilhelm-Grimm-Zentrum, HU Berlin Geschwister-Scholl-Straße 1, 10117 Berlin </p>
 
   <hr>
-
 
   <h2 id="purpose">💡 Purpose of the workshop</h2>
 
-  <p>
-    The aim of this project is to organize a two-day workshop that brings
-    together scholars, cultural artists, and community organizers to
-    critically engage with anti-Asian racism (AAR) from transnational,
-    interdisciplinary, and intersectional perspectives.
-  </p>
 
-  <p>
-    <strong>The questions we explore in the two-day workshop are:</strong>
-  </p>
+ <p>The aim of this project is to organize a two-day workshop that brings together scholars, cultural artists, and community organizers to critically engage with anti-Asian racism (AAR) from transnational, interdisciplinary, and intersectional perspective.  <br><br>
 
-  <p>
-    (1) How can racial justice be theorized and materialized for Asian
-    diaspora communities in Europe, especially in the context of resurging
-    ethno-nationalism and structural racism?<br>
-
-    (2) What theoretical and empirical research exists on AAR in Europe,
-    and how can it be expanded to inform policy and practice?<br>
-
-    (3) How do Asian diasporic communities represent themselves in ways
-    that challenge dominant narratives and counter AAR?<br>
-
-    (4) What are the challenges and possibilities in bridging academic
-    research with civil society action to address AAR?<br>
-
-    (5) How can we build sustainable, transnational, and interdisciplinary
-    collaborations that center marginalized perspectives and advance Asian
-    diasporic solidarities and racial justice?
-  </p>
-
+   
+  <b>The questions we explore in the two-day workshop are:</b>
+  <p>(1) How can racial justice be theorized and materialized for Asian diaspora communities in Europe, especially in the context of resurging ethno-nationalism and structural racism? <br>
+(2) What theoretical and empirical research exists on AAR in Europe, and how can it be expanded to inform policy and practice?<br>
+(3) How do Asian diasporic communities represent themselves in ways that challenge dominant narratives and counter AAR?<br>
+(4) What are the challenges and possibilities in bridging academic research with civil society action to address AAR?<br>
+(5) How can we build sustainable, transnational, and interdisciplinary collaborations that center marginalized perspectives and advance Asian diasporic solidarities and racial justice?<br>
+</p>
 
   <hr>
-
 
   <h2 id="program">📋 Program</h2>
 
-  <p>
-    <a
-      href="/files/adrwprogram.pdf"
-      target="_blank"
-      rel="noopener noreferrer">
-      📂 Download the full program as a PDF
-    </a>.
-  </p>
 
-  <p style="margin-bottom:10px;">
+<p><a href="/files/adrwprogram.pdf" target="_blank">📂 Download the full program as a PDF</a>.  <br> </p> 
 
-    <strong>✨ Day 0 - August 26</strong>
-    will open with the pre-event “Crossing Borders with Camera Forward.”
-    <br><br>
+  
+  <p style="margin-bottom: 10px;"><b>✨Day 0 - August 26</b> will open with the pre-event “Crossing Borders with Camera Forward.” <br><br>
 
-    <strong>✨ Day 1 - August 27</strong>
-    will focus on emerging academic research, including studies on AAR,
-    representation politics, and archival practices of marginalized
-    communities. Panels will present comparative case studies from Europe,
-    the U.S., and Latin America, fostering interdisciplinary dialogue across
-    sociology, political science, migration studies, cultural studies,
-    and memory studies.
-    <br><br>
+<b>✨Day 1 - August 27</b> will focus on emerging academic research, including studies on AAR, representation politics, and archival practices of marginalized communities. Panels will present comparative case studies from Europe, the U.S., and Latin America, fostering interdisciplinary dialogue across sociology, political science, migration studies, cultural studies, and memory studies. <br><br>
 
-    <strong>✨ Day 2 - August 28</strong>
-    will highlight activist and artistic perspectives, with sessions on
-    queer-feminist interventions, labor organizing, and Korean adoptee
-    activism. It will emphasize creative resistance—through theater, film,
-    literature, and community organizing—and policy engagement via
-    anti-racist strategies within national and EU frameworks.
-    <br><br>
+<b>✨Day 2 - August 28</b> will highlight activist and artistic perspectives, with sessions on queer-feminist interventions, labor organizing, and Korean adoptee activism. It will emphasize creative resistance—through theater, film, literature, and community organizing—and policy engagement via anti-racist strategies within national and EU frameworks.   <br>
 
-    This workshop will serve as a foundational step in developing a
-    collaborative framework and network for a long-term international
-    research project for racial justice, queer-feminist scholarship,
-    and coalition-building across sectors in Europe and the Americas.
-
-  </p>
+     <br>
+    
+This workshop will serve as a foundational step in developing a collaborative framework and network for a long-term international research project for racial justice, queer-feminist scholarship, and coalition-building across sectors in Europe and the Americas.</p>
 
 
-  <hr>
+<hr>
+
+<h3 id="padlet">Our shared idea board</h3>
+
+<p>
+  📌 We're using
+  <a href="https://padlet.com/indeed1122/adrw-padlet-kzdnch1zf6pc8684"
+     target="_blank"
+     rel="noopener noreferrer"
+     data-proofer-ignore>
+    Padlet
+  </a>
+  as a shared brainstorming space where everyone can add ideas, suggestions, or feedback directly.
+  <br>
+
+  🔗 No account or sign-in is required.
+  <br>
+
+  💡 Have an idea, suggestion, or feedback? Add it to our shared
+  <a href="https://padlet.com/indeed1122/adrw-padlet-kzdnch1zf6pc8684"
+     target="_blank"
+     rel="noopener noreferrer"
+     data-proofer-ignore>
+    Padlet
+  </a>
+  at any time.
+  <br>
+
+  🖌️ You can comment on the talks, suggest future collaborations,  initiatives, funding opportunities, or resources you could offer; all ideas are welcome as part of the brainstorming.
+  <br>
+
+  💬 We'll return to the Padlet ideas toward the end of the workshop, with dedicated time to review and discuss them together.
+</p>
+
+<hr>
+
+<h3 id="day0">Day 0: Pre-event "Crossing borders with camera forward" </h3>
 
 
-  <h3 id="padlet">Our shared idea board</h3>
 
-  <p>
-    📌 We're using
-    <a
-      href="https://padlet.com/indeed1122/adrw-padlet-kzdnch1zf6pc8684"
-      target="_blank"
-      rel="noopener noreferrer"
-      data-proofer-ignore>
-      Padlet
-    </a>
-    as a shared brainstorming space where everyone can add ideas,
-    suggestions, or feedback directly.
+  
+<p>We invite you to a  <a href="https://sinematranstopia.com/en/crossing-borders-with-camera-forward/der-fremde-donner-vom-zusehen-beim-sterben"> film screening</a> as a pre-event to the workshop. <br><br>
+
+  
+🎬 This evening will feature two short films (German with English subtitles) <br>
+🎙️ The film screening is followed by a conversation with Sun-Ju Choi, Feng-Mei Heberer, and Yi Lou.  <br>
+📍SİNEMA TRANSTOPIA, Lindower Str. 20 20/22, Haus C, 13347 Berlin <br>
+⏰ August 26, 19:00 <br>
+✅ The event is open to everyone, including those who are not participating in the workshop. <br>
+🎟️ Reserve your ticket through <a href="https://booking.cinetixx.de/frontend/index.html?cinemaId=2317182724&showId=3605249901&bgswitch=false#/show/2317182724/3605249901
+">here</a>.  </p>
+
+
+  <div style="display:flex; justify-content:center; gap:20px; text-align:center;">
+
+  <div>
+    <img src="{{ '/images/ST1.jpg' | relative_url }}" 
+         alt="Photo 1" 
+         style="width:320px;">
     <br>
-
-    🔗 No account or sign-in is required.
-    <br>
-
-    💡 Have an idea, suggestion, or feedback? Add it to our shared
-    <a
-      href="https://padlet.com/indeed1122/adrw-padlet-kzdnch1zf6pc8684"
-      target="_blank"
-      rel="noopener noreferrer"
-      data-proofer-ignore>
-      Padlet
-    </a>
-    at any time.
-    <br>
-
-    🖌️ You can comment on the talks, suggest future collaborations,
-    initiatives, funding opportunities, or resources you could offer;
-    all ideas are welcome as part of the brainstorming.
-    <br>
-
-    💬 We'll return to the Padlet ideas toward the end of the workshop,
-    with dedicated time to review and discuss them together.
-  </p>
-
-
-  <hr>
-
-
-  <h3 id="day0">
-    Day 0: Pre-event "Crossing borders with camera forward"
-  </h3>
-
-  <p>
-    We invite you to a
-    <a
-      href="https://sinematranstopia.com/en/crossing-borders-with-camera-forward/der-fremde-donner-vom-zusehen-beim-sterben"
-      target="_blank"
-      rel="noopener noreferrer">
-      film screening
-    </a>
-    as a pre-event to the workshop.
-    <br><br>
-
-    🎬 This evening will feature two short films
-    (German with English subtitles).
-    <br>
-
-    🎙️ The film screening is followed by a conversation with
-    Sun-Ju Choi, Feng-Mei Heberer, and Yi Lou.
-    <br>
-
-    📍 SİNEMA TRANSTOPIA,
-    Lindower Str. 20/22,
-    Haus C,
-    13347 Berlin
-    <br>
-
-    ⏰ August 26, 19:00
-    <br>
-
-    ✅ The event is open to everyone, including those who are not
-    participating in the workshop.
-    <br>
-
-    🎟️ Reserve your ticket
-    <a
-      href="https://booking.cinetixx.de/frontend/index.html?cinemaId=2317182724&amp;showId=3605249901&amp;bgswitch=false#/show/2317182724/3605249901"
-      target="_blank"
-      rel="noopener noreferrer">
-      here
-    </a>.
-  </p>
-
-
-  <div
-    style="
-      display:flex;
-      justify-content:center;
-      gap:20px;
-      text-align:center;
-      flex-wrap:wrap;
-    ">
-
-    <div>
-      <img
-        src="{{ '/images/ST1.jpg' | relative_url }}"
-        alt="Der Fremde Donner"
-        style="width:320px; max-width:100%; height:auto;">
-
-      <p>
-        <em>
-          Der Fremde Donner ('The Foreign Thunder').
-          Pascal Hoffmann, 1984, Drama, 24 min.
-        </em>
-      </p>
-    </div>
-
-
-    <div>
-      <img
-        src="{{ '/images/ST2.jpg' | relative_url }}"
-        alt="Vom Zusehen beim Sterben"
-        style="width:320px; max-width:100%; height:auto;">
-
-      <p>
-        <em>
-          Vom Zusehen beim Sterben ('Watching While Dying').
-          Dorothee Schön, Hubertus Meyer-Burckhardt,
-          1983, 41 min.
-        </em>
-      </p>
-    </div>
-
+     <p><em>  Der Fremde Donner ('The Foreign Thunder'). Pascal Hoffmann, 1984, Drama, 24 min.</em> </p>
   </div>
 
-
-  <hr>
-
-
-  <h3 id="day1">
-    Day 1: August 27, 2026
-    “New East and Southeast Asian diasporic perspectives in research
-    and on public discourse”
-  </h3>
-
-
-  <table>
-    <thead>
-      <tr>
-        <th style="white-space:nowrap;">Time</th>
-        <th>Session</th>
-        <th>Speakers and moderators</th>
-      </tr>
-    </thead>
-
-    <tbody>
-
-      <tr>
-        <td>9:00–9:10</td>
-        <td>Welcome &amp; organizational remarks</td>
-        <td>
-          <a
-            href="#"
-            class="speaker-link"
-            data-speaker-id="sayaka-osanami-torngren">
-            Sayaka Osanami Törngren
-          </a>,
-          Malmö University
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>9:10–9:50</td>
-        <td>
-          <a
-            href="#"
-            class="speaker-link"
-            data-speaker-id="keynote">
-            Keynote: Intersectional Approaches to Addressing Anti-Asian
-            Racism: Moving Towards Racial Justice &amp; Liberation
-          </a>
-        </td>
-
-        <td>
-          <a
-            href="#"
-            class="speaker-link"
-            data-speaker-id="nadine-nakamura">
-            Nadine Nakamura
-          </a>,
-          California School of Professional Psychology,
-          Alliant University, San Diego
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>9:50–10:15</td>
-        <td>Q&amp;A</td>
-        <td>
-          <a
-            href="#"
-            class="speaker-link"
-            data-speaker-id="linda-juang">
-            Linda Juang
-          </a>,
-          University of Potsdam
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>10:15–10:30</td>
-        <td>Short break</td>
-        <td></td>
-      </tr>
-
-
-      <tr>
-        <td>10:30–11:30</td>
-
-        <td>
-          <strong>
-            <a
-              href="#"
-              class="speaker-link"
-              data-speaker-id="panel1">
-              Panel 1: AAR in quantitative research in Europe and the USA
-            </a>
-          </strong>
-        </td>
-
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="daun-cheong">
-            Daun Cheong
-          </a>,
-          Asian Voices Europe
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="linda-juang">
-            Linda Juang
-          </a>,
-          University of Potsdam
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="tae-jun-kim">
-            Tae Jun Kim
-          </a>,
-          Dezim e.V.
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="richard-lee">
-            Richard Lee
-          </a>,
-          University of Minnesota Twin Cities
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>11:30–12:00</td>
-        <td>Q&amp;A</td>
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="hyunjung-lee">
-            Hyunjung Lee
-          </a>,
-          Asian Voices Europe
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>12:00–13:00</td>
-        <td>Lunch Break</td>
-        <td></td>
-      </tr>
-
-
-      <tr>
-        <td>13:00–14:00</td>
-
-        <td>
-          <strong>
-            <a href="#" class="speaker-link" data-speaker-id="panel2">
-              Panel 2: Qualitative case studies on AAR and counter-narratives
-              (self-representation)
-            </a>
-          </strong>
-        </td>
-
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="simeng-wang">
-            Simeng Wang
-          </a>,
-          French National Centre for Scientific Research, Paris
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="grazia-ting-deng">
-            Grazia Ting Deng
-          </a>,
-          Brandeis University, Massachusetts
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="shujianing-li">
-            Shujianing Li
-          </a>,
-          University of Minnesota Twin Cities
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="aya-ezawa">
-            Aya Ezawa
-          </a>,
-          Leiden University
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>14:00–14:30</td>
-        <td>Q&amp;A</td>
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="teresa-swartz">
-            Teresa Swartz
-          </a>,
-          University of Minnesota Twin Cities
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>14:30–15:30</td>
-
-        <td>
-          <strong>
-            <a href="#" class="speaker-link" data-speaker-id="panel3">
-              Panel 3: Young scholars’ panel
-            </a>
-          </strong>
-        </td>
-
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="somi-dubuque">
-            Somi Dubuque
-          </a>,
-          Berlin
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="pei-li">
-            Pei Li
-          </a>,
-          University of Frankfurt
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="veronica-reyes">
-            Veronica Reyes
-          </a>,
-          Brussels
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="danila-tran-thuy-duong">
-            Danila Tran Thuy Duong
-          </a>,
-          Martin Luther University Halle-Wittenberg
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="zhilin-wu">
-            Zhilin Wu
-          </a>,
-          University of Groningen
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>15:30–16:00</td>
-        <td>Q&amp;A</td>
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="feng-mei-heberer">
-            Feng-mei Heberer
-          </a>,
-          New York University
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>16:00–16:15</td>
-        <td>Coffee break</td>
-        <td></td>
-      </tr>
-
-
-      <tr>
-        <td>16:15–17:15</td>
-
-        <td>
-          <strong>
-            <a href="#" class="speaker-link" data-speaker-id="roundtable1">
-              Roundtable 1: Transpacific perspectives on public memory
-              and Asian diasporic archive(s)
-            </a>
-          </strong>
-        </td>
-
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="sun-ju-choi">
-            Sun-ju Choi
-          </a>,
-          korientation e.V. Berlin, Koreanische Frauengruppe
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="nataly-han">
-            Nataly Han
-          </a>,
-          Korea Verband e.V.
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="ly-cam-le">
-            Ly Cam Le
-          </a>,
-          Initiative for the memory of Phan Văn Toàn
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="ye-charlotte-ming">
-            Ye Charlotte Ming
-          </a>,
-          artist and journalist, Qingdao &amp; Berlin
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="iris-rajanayagam">
-            Iris Rajanayagam
-          </a>,
-          Federal Agency for Civic Education
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="sina-schindler">
-            Sina Schindler
-          </a>,
-          Initiative for the memory of Phan Văn Toàn
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>17:15–17:45</td>
-        <td>Q&amp;A</td>
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="kimiko-suda">
-            Kimiko Suda
-          </a>,
-          HU Berlin
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>17:45–18:00</td>
-        <td>
-          Wrapping up Day 1
-          <br>
-          &amp; Information about Day 2
-          <br>
-          Share digital canvas for thoughts/ideas
-        </td>
-        <td></td>
-      </tr>
-
-
-      <tr>
-        <td>18:00–21:00</td>
-        <td>Dinner</td>
-        <td></td>
-      </tr>
-
-    </tbody>
-  </table>
-
-
-  <hr>
-
-
-  <h3 id="day2">
-    Day 2: August 28, 2026
-    “East and Southeast Asian diasporic perspectives in politics,
-    culture and civil society”
-  </h3>
-
-
-  <table>
-    <thead>
-      <tr>
-        <th style="white-space:nowrap;">Time</th>
-        <th>Session</th>
-        <th>Speakers and moderators</th>
-      </tr>
-    </thead>
-
-    <tbody>
-
-      <tr>
-        <td>9:30–9:40</td>
-        <td>Welcome &amp; introduction</td>
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="hyunjung-lee">
-            Hyunjung Lee
-          </a>,
-          Asian Voices Europe
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>9:40–10:30</td>
-
-        <td>
-          <strong>
-            <a href="#" class="speaker-link" data-speaker-id="roundtable2">
-              Roundtable 2: Asian diasporic representation in labor politics /
-              trade union organization
-            </a>
-          </strong>
-        </td>
-
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="ongoo-buyanjargal">
-            Ongoo Buyanjargal
-          </a>,
-          organizer, Berlin
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="hae-lin-choi">
-            Hae-Lin Choi
-          </a>,
-          Hands off, New York
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="anjannine-kyle-untalan">
-            Anjannine Kyle Untalan
-          </a>,
-          Filipino Women’s Council
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>10:30–11:00</td>
-        <td>Q&amp;A</td>
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="romin-khan">
-            Romin Khan
-          </a>,
-          ver.di, Berlin
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>11:00–11:30</td>
-        <td>Short break</td>
-        <td></td>
-      </tr>
-
-
-      <tr>
-        <td>11:30–12:30</td>
-
-        <td>
-          <strong>
-            <a href="#" class="speaker-link" data-speaker-id="roundtable3">
-              Roundtable 3: Queer-feminist self-representation
-              in culture &amp; arts
-            </a>
-          </strong>
-        </td>
-
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="olivia-hyunsin-kim">
-            Olivia hyunsin Kim
-          </a>,
-          artist, Berlin
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="ing-lee">
-            Ing Lee
-          </a>,
-          illustrator, Sao Paulo, Brasil
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="nguyen-phuong-thuy">
-            Nguyễn Phương Thúy
-          </a>,
-          artist and writer, Berlin
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="popo-fan">
-            Popo Fan
-          </a>,
-          filmmaker, Berlin
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="feng-mei-heberer">
-            Feng-mei Heberer
-          </a>,
-          New York University
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>12:30–13:00</td>
-        <td>Q&amp;A</td>
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="sung-un-gang">
-            Sung Un Gang
-          </a>,
-          TH Köln
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>13:00–14:00</td>
-        <td>Lunch Break</td>
-        <td></td>
-      </tr>
-
-
-      <tr>
-        <td>14:00–15:00</td>
-
-        <td>
-          <strong>
-            <a href="#" class="speaker-link" data-speaker-id="roundtable4">
-              Roundtable 4: Korean Adoptee Activism
-            </a>
-          </strong>
-        </td>
-
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="mirae-kh-rhee">
-            Miraekh Rhee
-          </a>,
-          artist and activist, Berlin, California, South Korea
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="jin-hwa-anna-borstam">
-            Jin Hwa Anna Borstam
-          </a>,
-          artist, Lund, Sweden
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="sue-glaeser">
-            Sue Glaeser
-          </a>,
-          Berlin
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>15:00–15:30</td>
-        <td>Q&amp;A</td>
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="richard-lee">
-            Richard Lee
-          </a>,
-          University of Minnesota Twin Cities
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>15:30–15:45</td>
-        <td>Coffee break</td>
-        <td></td>
-      </tr>
-
-
-      <tr>
-        <td>15:45–16:30</td>
-
-        <td>
-          <strong>
-            <a href="#" class="speaker-link" data-speaker-id="panel4">
-              Panel 4: Asian diasporic perspectives on political institutions
-              and counter-measures to racism
-            </a>
-          </strong>
-        </td>
-
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="leyao-rovira">
-            Leyao Rovira
-          </a>,
-          nomellameschinita
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="hyunjung-lee">
-            Hyunjung Lee
-          </a>,
-          Asian Voices Europe
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="ann-li">
-            Ann Li
-          </a>,
-          Untold Asian Stories
-          <br>
-
-          <a href="#" class="speaker-link" data-speaker-id="jee-un-kim">
-            Jee-Un Kim
-          </a>,
-          korientation e.V.
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>16:30–17:00</td>
-        <td>Q&amp;A</td>
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="seongmoon-lily-shim">
-            Seongmoon Lily Shim
-          </a>,
-          Asian Voices Europe
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>17:00–17:30</td>
-
-        <td>
-          How to continue the network?
-          <br>
-          E.g., communication channel (incl. digital),
-          who wants to host the next meeting?
-        </td>
-
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="hyunjung-lee">
-            Hyunjung Lee
-          </a>,
-          Asian Voices Europe
-          &amp;
-          <a href="#" class="speaker-link" data-speaker-id="kimiko-suda">
-            Kimiko Suda
-          </a>,
-          Humboldt-University Berlin
-        </td>
-      </tr>
-
-
-      <tr>
-        <td>17:30–17:45</td>
-        <td>Last break</td>
-        <td></td>
-      </tr>
-
-
-      <tr>
-        <td>17:45–18:15</td>
-
-        <td>
-          Celebrate the diversity of Asian talent in art and culture
-          (musical contribution)
-        </td>
-
-        <td>
-          <a href="#" class="speaker-link" data-speaker-id="joni-sheila">
-            Joni Sheila
-          </a>
-          &amp;
-          <a href="#" class="speaker-link" data-speaker-id="christopher-dhave">
-            Christopher D’havé
-          </a>,
-          Asian Persuasion, Brussels
-        </td>
-      </tr>
-
-    </tbody>
-  </table>
-
-
-  <hr>
-
-
-  <h2 id="house-rules">🤝 House Rules</h2>
-
-  <p>
-    To help maintain a welcoming, inclusive, respectful, and professional
-    environment, we ask all participants to follow the House Rules
-    outlined below:
-  </p>
-
-  <details>
-    <summary>
-      <strong>Inclusivity and Respect</strong>
-    </summary>
-
-    <p>TBD.</p>
-  </details>
-
-
-  <hr>
-
-
-  <h2 id="registration">📝 Registration</h2>
-
-  <p>
-    Registration was closed on June 30, 2026.
-  </p>
-
-
-  <hr>
-
-
-  <h2 id="faq">❓ FAQ</h2>
-
-  <details>
-    <summary>
-      <strong>Is the workshop open to the public?</strong>
-    </summary>
-
-    <p>
-      The workshop is organized in a closed participant format to help
-      create a focused space for discussion and exchange among participants.
-      Registration is therefore required, and participation is limited
-      depending on the workshop format and capacity.
-    </p>
-  </details>
-
-
-  <hr>
-
-
-  <h2 id="organizers">📩 Organizers</h2>
-
-  <p>
-    Sayaka Osanami Törngren,
-    Malmö Institute for Migration Studies,
-    Malmö University
+  <div>
+    <img src="{{ '/images/ST2.jpg' | relative_url }}" 
+         alt="Photo 2" 
+         style="width:320px;">
     <br>
-
-    Kimiko Suda,
-    Humboldt-University Berlin
-    <br>
-
-    Hyunjung Lee,
-    Leipzig University,
-    Asian Voices Europe
-    <br>
-  </p>
-
-
-  <p style="text-align:center;">
-    <img
-      src="{{ '/images/logos.png' | relative_url }}"
-      alt="Workshop organizer logos"
-      style="width:750px; max-width:100%; height:auto;">
-  </p>
-
+    <p><em> Vom Zusehen beim Sterben ('Watching While Dying').Dorothee Schön, Hubertus Meyer-Burckhardt, 1983, 41 min.</em></p>
+  </div>
 
 </div>
 
+  
+
+  <hr>
+
+  
+<h3 id="day1">Day 1: August 27, 2026 “New East and Southeast Asian diasporic perspectives in research and on public discourse”</h3>
+  
+  <style>
+td:first-child,
+th:first-child {
+  white-space: nowrap;
+  min-width: 100px;
+}
+</style>
+  <table>
+    <thead>
+      <tr>
+        <th style="white-space: nowrap;">Time</th><th>Session</th><th>Speakers and moderators</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>9:00–9:10</td><td>Welcome & organizational remarks </td><td>     <a href="#"   class="speaker-link" data-speaker-id="sayaka-osanami-torngren">  Sayaka Osanami Törngren</a>, Malmö University </td></tr>
+      <tr><td>9:10–9:50</td><td> <a href="#"   class="speaker-link" data-speaker-id="keynote">Keynote: Intersectional Approaches to Addressing Anti-Asian Racism: Moving Towards Racial Justice & Liberation</a> </td><td>  <a href="#"   class="speaker-link" data-speaker-id="nadine-nakamura"> Nadine Nakamura</a>, California School of Professional Psychology, Alliant University, San Diego</td></tr>
+      <tr><td>9:50–10:15</td><td>Q&A </td><td> <a href="#"   class="speaker-link" data-speaker-id="linda-juang">Linda Juang</a>, University of Potsdam</td></tr>
+      <tr><td>10:15–10:30</td><td>Short break </td><td> </td></tr>
+      <tr><td>10:30–11:30</td><td><b> <a href="#"   class="speaker-link" data-speaker-id="panel1">Panel 1: AAR in quantitative research in Europe and the USA </a> </b> </td><td>   <a href="#"   class="speaker-link" data-speaker-id="daun-cheong"> Daun Cheong</a>, Asian Voices Europe <br>
+                                          <a href="#"   class="speaker-link" data-speaker-id="linda-juang"> Linda Juang</a>, University of Potsdam <br>
+                                                    <a href="#"   class="speaker-link" data-speaker-id="tae-jun-kim"> Tae Jun Kim </a>, Dezim e.V. <br>
+                                                          <a href="#"   class="speaker-link" data-speaker-id="richard-lee">Richard Lee</a>, University of Minnesota Twin cities </td></tr>
+      <tr><td>11:30–12:00</td><td>Q&A </td><td> <a href="#"   class="speaker-link" data-speaker-id="hyunjung-lee">Hyunjung Lee</a>, Asian Voices Europe</td></tr>
+      <tr><td>12:00–13:00</td><td>Lunch Break </td><td></td></tr>
+      <tr><td>13:00–14:00</td><td><b> <a href="#"   class="speaker-link" data-speaker-id="panel2">Panel 2:Qualitative case studies on AAR and counter-narratives (self-representation)</a> </b> </td><td>  <a href="#"   class="speaker-link" data-speaker-id="simeng-wang">Simeng Wang</a>, French National Centre for Scientific Research, Paris <br> 
+                                                                                                                                 <a href="#"   class="speaker-link" data-speaker-id="grazia-ting-deng">Grazia Ting Deng</a>, Brandeis University, Massachusetts <br>
+                                                                                                                                <a href="#"   class="speaker-link" data-speaker-id="shujianing-li">Shujianing Li</a>, University of Minnesota Twin cities<br>
+                                                                                                                                <a href="#"   class="speaker-link" data-speaker-id="aya-ezawa">Aya Ezawa</a>, Leiden University</td></tr>
+     <tr><td>14:00–14:30</td><td>Q&A</td><td> <a href="#"   class="speaker-link" data-speaker-id="teresa-swartz">Teresa Swartz</a>, University of Minnesota Twin cities </td></tr>
+      <tr><td>14:30–15:30</td><td><b><a href="#"   class="speaker-link" data-speaker-id="panel3"> Panel 3: Young scholars’ panel </a> </b> </td><td> <a href="#"   class="speaker-link" data-speaker-id="somi-dubuque">Somi Dubuque</a>, Berlin  <br>
+                                                     <a href="#"   class="speaker-link" data-speaker-id="pei-li">Pei Li</a>, University of Frankfurt   <br>
+                                                                <a href="#"   class="speaker-link" data-speaker-id="veronica-reyes">Veronica Reyes</a>, Brussels   <br>  
+                                                            <a href="#"   class="speaker-link" data-speaker-id="danila-tran-thuy-duong">Danila Tran Thuy Duong</a>, Martin Luther University Halle-Wittenberg <br>
+                                                              <a href="#"   class="speaker-link" data-speaker-id="zhilin-wu">Zhilin Wu</a>, University of Groningen> </td></tr>
+     <tr><td>15:30–16:00</td><td>Q&A</td><td>  <a href="#"   class="speaker-link" data-speaker-id="feng-mei-heberer">Feng-mei Heberer</a>, New York University</td></tr>
+     <tr><td>16:00–16:15</td><td>Coffee break</td><td> </td></tr>
+      <tr><td>16:15–17:15</td><td><b> <a href="#"   class="speaker-link" data-speaker-id="roundtable1">Roundtable 1: Transpacific perspectives on public memory and Asian diasporic archive(s) </a> </b> </td><td>        <a href="#"   class="speaker-link" data-speaker-id="sun-ju-choi">Sun-ju Choi</a>, korientation e.V. Berlin, Koreanische Frauengruppe  <br>
+                                                         <a href="#"   class="speaker-link" data-speaker-id="nataly-han">Nataly Han</a>, Korea verband e.V <br>
+                                                        <a href="#"   class="speaker-link" data-speaker-id="ly-cam-le">Ly Cam Le</a>, Initiative for the memory of Phan Văn Toàn <br>
+                                                         <a href="#"   class="speaker-link" data-speaker-id="ye-charlotte-ming">Ye Charlotte Ming</a>, artist and journalist, Qingdao & Berlin <br>
+                                                        <a href="#"   class="speaker-link" data-speaker-id="iris-rajanayagam">Iris Rajanayagam</a>, Federal Agency for Civic Education <br>
+                                                        <a href="#"   class="speaker-link" data-speaker-id="sina-schindler">Sina Schindler</a>, Initiative for the memory of Phan Văn Toàn</td></tr>
+    <tr><td>17:15–17:45</td><td>Q&A</td><td> <a href="#"   class="speaker-link" data-speaker-id="kimiko-suda">Kimiko Suda</a>, HU Berlin</td></tr>
+    <tr><td>17:45–18:00</td><td>Wrapping up Day1  <br> & Information about DAY 2: <br> Share digital canvas for thoughts/ideas</td><td></td></tr>
+    <tr><td>18:00–21:00</td><td>Dinner </td><td></td></tr>
+    </tbody>
+  </table>
+
+  <hr>
+  
+<h3 id="day2">Day 2: August 28, 2026 “East and Southeast Asian diasporic perspectives in politics, culture and civil society"</h3>
+  <style>
+td:first-child,
+th:first-child {
+  white-space: nowrap;
+  min-width: 100px;
+}
+</style>
+  <table>
+    <thead>
+      <tr>
+        <th style="white-space: nowrap;">Time</th><th>Session</th><th>Speakers and moderators</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>9:30–9:40</td><td>Welcome &  introduction </td><td> <a href="#"   class="speaker-link" data-speaker-id="hyunjung-lee">Hyunjung Lee</a>, Asian Voices Europe </td></tr>
+      <tr><td>9:40–10:30</td><td><b>  <a href="#"   class="speaker-link" data-speaker-id="roundtable2">Roundtable 2: Asian diasporic representation in labor politics / trade union organization </a> </b> </td><td> <a href="#"   class="speaker-link" data-speaker-id="ongoo-buyanjargal">Ongoo Buyanjargal</a>, organizer, Berlin <br>
+                                                                                                                                                <a href="#"   class="speaker-link" data-speaker-id="hae-lin-choi">Hae-Lin Choi</a>, Hands off, New York <br> 
+                                                                                                                                            <a href="#"   class="speaker-link" data-speaker-id="anjannine-kyle-untalan">Anjannine Kyle Untalan</a>, Filipino Women’s Council</td></tr>
+      <tr><td>10:30–11:00</td><td>Q&A </td><td>   <a href="#"   class="speaker-link" data-speaker-id="romin-khan">Romin Khan</a>, ver.di, Berlin</td></tr>
+      <tr><td>11:00–11:30</td><td>Short break </td><td> </td></tr>
+      <tr><td>11:30–12:30</td><td><b>  <a href="#"   class="speaker-link" data-speaker-id="roundtable3">Roundtable 3: Queer-feminist self-representation in culture & arts </a> </b> </td><td>  <a href="#"   class="speaker-link" data-speaker-id="olivia-hyunsin-kim">Olivia hyunsin Kim</a>, artist, Berlin <br>
+                                                      <a href="#"   class="speaker-link" data-speaker-id="ing-lee">Ing Lee</a>, illustrator, Sao Paulo, Brasil<br>
+                                                        <a href="#"   class="speaker-link" data-speaker-id="nguyen-phuong-thuy">Nguyễn Phương Thúy</a>, artist and writer, Berlin <br>
+                                                        <a href="#"   class="speaker-link" data-speaker-id="popo-fan">Popo Fan</a>, filmmaker, Berlin <br>
+                                                         <a href="#"   class="speaker-link" data-speaker-id="feng-mei-heberer">Feng-mei Heberer</a>, New York University </td></tr>
+      <tr><td>12:30–13:00</td><td>Q&A </td><td>  <a href="#"   class="speaker-link" data-speaker-id="sung-un-gang">Sung Un Gang</a>, TH Köln </td></tr>
+      <tr><td>13:00–14:00</td><td>Lunch Break </td><td></td></tr>
+      <tr><td>14:00–15:00</td><td><b> <a href="#"   class="speaker-link" data-speaker-id="roundtable3">Roundtable 4: Korean Adoptee Activism </a> </b> </td><td>  <a href="#"   class="speaker-link" data-speaker-id="mirae-kh-rhee">Miraekh Rhee</a>, artist and activist, Berlin, California, South Korea <br> 
+                                                                                         <a href="#"   class="speaker-link" data-speaker-id="jin-hwa-anna-borstam">Jin Hwa Anna Borstam</a>, artist, Lund, Sweden <br>
+                                                                                        <a href="#"   class="speaker-link" data-speaker-id="sue-glaeser"> Sue Glaeser</a>, Berlin</td></tr>
+     <tr><td>15:00–15:30</td><td>Q&A</td><td>  <a href="#"   class="speaker-link" data-speaker-id="richard-lee">Richard Lee</a>, University of Minnesota Twin cities </td></tr>
+      <tr><td>15:30-15:45</td><td>Coffee break </td><td></td></tr>
+      <tr><td>15:40–16:30</td><td><b>  <a href="#"   class="speaker-link" data-speaker-id="panel4">Panel 4: Asian diasporic perspectives on political institutions and counter-measures to racism</a> </b> </td><td>  <a href="#"   class="speaker-link" data-speaker-id="leyao-rovira">Leyao Rovira</a>, nomellameschinita <br>
+                                                          <a href="#"   class="speaker-link" data-speaker-id="hyunjung-lee">Hyunjung Lee</a>, Asian Voices Europe  <br>
+                                                          <a href="#"   class="speaker-link" data-speaker-id="ann-li">Ann Li</a>, Untold Asian Stories <br>
+                                                          <a href="#"   class="speaker-link" data-speaker-id="jee-un-kim">Jee-Un Kim</a>, korientation e.V. </td></tr>
+     <tr><td>16:30–17:00</td><td>Q&A</td><td>  <a href="#"   class="speaker-link" data-speaker-id="seongmoon-lily-shim">Seongmoon Lily Shim</a>, Asian Voices Europe </td></tr>
+     <tr><td>17:00–17:30</td><td>How to continue the network? <br> E.g., communication channel (incl. digital), who wants to host the next meeting?</td><td>  <a href="#"   class="speaker-link" data-speaker-id="hyunjung-lee">Hyunjung Lee</a>, Asian Voices Europe  & <a href="#"   class="speaker-link" data-speaker-id="kimiko-suda">Kimiko Suda</a>, Humboldt-University Berlin 
+                                  </td></tr>
+    <tr><td>17:30–17:45</td><td>Last break</td><td></td></tr>
+    <tr><td>17:45–18:15</td><td>Celebrate the diversity of Asian talent in art and culture (musical contribution) </td><td>   <a href="#"   class="speaker-link" data-speaker-id="joni-sheila">Joni Sheila</a> &   <a href="#"   class="speaker-link" data-speaker-id="christopher-dhave">Christopher D’havé</a>, Asian Persuasion, Brussels</td></tr>
+    </tbody>
+  </table>
+
+  <hr>
+
+
+<h2 id="house-rules">🤝House Rules</h2> 
+  <p>To help maintain a welcoming, inclusive, respectful, and professional environment, we ask all participants to follow the House Rules outlined below:</p></p>
+
+  <details>
+    <summary><strong>Inclusivity and Respect</strong></summary>
+    <p>TBD. </p>
+  </details>
+
+  <hr>
+
+  
+<h2 id="registration">📝 Registration</h2>
+  <p>Registeration was closed on June 30th, 2026.</p>
+
+  <hr>
+
+<h2 id="faq">❓ FAQ</h2>
+
+  <details>
+    <summary><strong>Is the workshop open to public</strong></summary>
+    <p>The workshop is organized in a closed participant format to help create a focused space for discussion and exchange among participants.
+      Registration is therefore required, and participation is limited depending on the workshop format and capacity. </p>
+  </details>
+
+  <hr>
+
+<h2 id="organizers">📩 Organizers</h2>
+  <p>Sayaka Osanami Törngren, Malmö Institute for Migration Studies, Malmö University <br>
+      Kimiko Suda, Humboldt-University Berlin <br> 
+      Hyunjung Lee, Leipzig University, Asian Voices Europe <br> </p>
+
+
+  <p style="text-align:center;">
+  <img src="{{'/images/logos.png'}}" alt="Photo" style="width:750px;">
+</p>
+
+
+  
+</div>
+
+
 
 {% include speaker-modal.html %}
-
 <script src="{{ '/assets/js/speakers.js' | relative_url }}"></script>
-
 
 <script>
 function checkPassword() {
@@ -1085,12 +389,11 @@ function checkPassword() {
   }
 }
 
-
 document.addEventListener("DOMContentLoaded", function () {
   const pw = document.getElementById("pw");
 
   if (pw) {
-    pw.addEventListener("keydown", function (e) {
+    pw.addEventListener("keydown", function(e) {
       if (e.key === "Enter") {
         checkPassword();
       }
@@ -1099,23 +402,16 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
+/* Floating contents menu */
 function toggleContents() {
   const menu = document.getElementById("floating-contents");
-
-  if (menu) {
-    menu.classList.toggle("show");
-  }
+  menu.classList.toggle("show");
 }
-
 
 function closeContents() {
   const menu = document.getElementById("floating-contents");
-
-  if (menu) {
-    menu.classList.remove("show");
-  }
+  menu.classList.remove("show");
 }
-
 
 function scrollToTop() {
   window.scrollTo({
@@ -1125,12 +421,11 @@ function scrollToTop() {
 }
 
 
+/* Show back-to-top button after scrolling */
 window.addEventListener("scroll", function () {
   const button = document.getElementById("back-to-top");
 
-  if (!button) {
-    return;
-  }
+  if (!button) return;
 
   if (window.scrollY > 400) {
     button.style.display = "block";
@@ -1140,13 +435,12 @@ window.addEventListener("scroll", function () {
 });
 
 
+/* Close contents menu when clicking outside */
 document.addEventListener("click", function (event) {
   const menu = document.getElementById("floating-contents");
   const menuButton = document.querySelector(".floating-menu-button");
 
-  if (!menu || !menuButton) {
-    return;
-  }
+  if (!menu || !menuButton) return;
 
   if (
     !menu.contains(event.target) &&
@@ -1156,7 +450,3 @@ document.addEventListener("click", function (event) {
   }
 });
 </script>
-
-
-
-
