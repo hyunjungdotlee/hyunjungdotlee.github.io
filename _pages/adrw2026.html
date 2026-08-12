@@ -48,7 +48,7 @@ button {
 </div>
 
   <div id="secret-content" style="display:none; margin-top:20px;">
-
+  <!-- NAVIGATION BAR - DESKTOP -->
 
     <div class="floating-nav">
 
@@ -81,8 +81,31 @@ button {
     ↑
   </button>
 
+        <!-- NAVIGATION BAR - MOBILE -->
+      
+</div>
+<div class="mobile-top-nav">
+  <button type="button" onclick="toggleMobileContents()">
+    ☰ Contents
+  </button>
+
+  <button type="button" onclick="scrollToTop()">
+    ↑ Top
+  </button>
 </div>
 
+<div id="mobile-contents" class="mobile-contents">
+  <a href="#purpose" onclick="closeMobileContents()">Purpose</a>
+  <a href="#program" onclick="closeMobileContents()">Program</a>
+  <a href="#padlet" onclick="closeMobileContents()">Shared idea board</a>
+  <a href="#day0" onclick="closeMobileContents()">Day 0</a>
+  <a href="#day1" onclick="closeMobileContents()">Day 1</a>
+  <a href="#day2" onclick="closeMobileContents()">Day 2</a>
+  <a href="#house-rules" onclick="closeMobileContents()">House Rules</a>
+  <a href="#registration" onclick="closeMobileContents()">Registration</a>
+  <a href="#faq" onclick="closeMobileContents()">FAQ</a>
+  <a href="#organizers" onclick="closeMobileContents()">Organizers</a>
+</div>
   
 
   <!-- TABLE OF CONTENTS START -->
@@ -449,4 +472,22 @@ document.addEventListener("click", function (event) {
     menu.classList.remove("show");
   }
 });
+
+  
+function toggleMobileContents() {
+  const menu = document.getElementById("mobile-contents");
+
+  if (menu) {
+    menu.classList.toggle("show");
+  }
+}
+
+function closeMobileContents() {
+  const menu = document.getElementById("mobile-contents");
+
+  if (menu) {
+    menu.classList.remove("show");
+  }
+}
+  
 </script>
