@@ -4,6 +4,7 @@ permalink: /adrw/
 layout: single
 author_profile: false
 published: true
+show_contents_switch: true
 ---
 
 
@@ -81,32 +82,32 @@ button {
     ↑
   </button>
 
-        <!-- NAVIGATION BAR - MOBILE -->
-      
-</div>
-<div class="mobile-top-nav">
-  <button type="button" onclick="toggleMobileContents()">
-    ☰ Contents
-  </button>
 
-  <button type="button" onclick="scrollToTop()">
-    ↑ Top
-  </button>
-</div>
+      {% if page.show_contents_switch %}
+<div class="contents-switch">
 
-<div id="mobile-contents" class="mobile-contents">
-  <a href="#purpose" onclick="closeMobileContents()">Purpose</a>
-  <a href="#program" onclick="closeMobileContents()">Program</a>
-  <a href="#padlet" onclick="closeMobileContents()">Shared idea board</a>
-  <a href="#day0" onclick="closeMobileContents()">Day 0</a>
-  <a href="#day1" onclick="closeMobileContents()">Day 1</a>
-  <a href="#day2" onclick="closeMobileContents()">Day 2</a>
-  <a href="#house-rules" onclick="closeMobileContents()">House Rules</a>
-  <a href="#registration" onclick="closeMobileContents()">Registration</a>
-  <a href="#faq" onclick="closeMobileContents()">FAQ</a>
-  <a href="#organizers" onclick="closeMobileContents()">Organizers</a>
+  <details>
+    <summary>☰ Contents</summary>
+
+    <div class="contents-switch-menu">
+      <a href="#purpose">Purpose</a>
+      <a href="#program">Program</a>
+      <a href="#padlet">Shared idea board</a>
+      <a href="#day0">Day 0</a>
+      <a href="#day1">Day 1</a>
+      <a href="#day2">Day 2</a>
+      <a href="#house-rules">House Rules</a>
+      <a href="#registration">Registration</a>
+      <a href="#faq">FAQ</a>
+      <a href="#organizers">Organizers</a>
+
+      <a href="#" class="contents-top-link">↑ Back to top</a>
+    </div>
+
+  </details>
+
 </div>
-  
+{% endif %}
 
   <!-- TABLE OF CONTENTS START -->
   <details class="toc">
