@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Speaker Directory"
+permalink: /adrw/speakers/
+author_profile: false
+---
+
 {% assign speakers = site.data.speakers | sort %}
 {% assign current_letter = "" %}
 
