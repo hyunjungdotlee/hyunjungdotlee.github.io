@@ -14,27 +14,25 @@ author_profile: false
 
   {% assign speaker_id = item[0] %}
   {% assign speaker = item[1] %}
-  {% assign first_char = speaker.name | slice: 0, 1 %}
+  {% assign first_letter = speaker.name | slice: 0, 1 | upcase %}
 
-  {% unless first_char == "[" %}
+  {% if first_letter != current_letter %}
+    {% assign current_letter = first_letter %}
+    <h2 id="{{ current_letter }}">{{ current_letter }}</h2>
+  {% endif %}
 
-    {% assign first_letter = speaker.name | slice: 0, 1 | upcase %}
-
-    {% if first_letter != current_letter %}
-      {% assign current_letter = first_letter %}
-      <h2 id="{{ current_letter }}">{{ current_letter }}</h2>
-    {% endif %}
-
-    <div class="speaker-entry">
-      <a href="#"
-         class="speaker-link"
-         data-speaker-id="{{ speaker_id }}">
-        {{ speaker.name }}
-      </a>
-    </div>
-
-  {% endunless %}
+  <div class="speaker-entry">
+    <a href="#"
+       class="speaker-link"
+       data-speaker-id="{{ speaker_id }}">
+      {{ speaker.name }}
+    </a>
+  </div>
 
 {% endfor %}
 
 </div>
+
+{% include speaker-modal.html %}
+
+<script src="{{ '/assets/js/speakers.js' | relative_url }}"></script>
