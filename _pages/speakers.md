@@ -14,20 +14,27 @@ author_profile: false
 
   {% assign speaker_id = item[0] %}
   {% assign speaker = item[1] %}
-  {% assign first_letter = speaker.name | slice: 0, 1 | upcase %}
+  {% assign speaker_name = speaker.name | strip %}
+  {% assign first_char = speaker_name | slice: 0, 1 %}
 
-  {% if first_letter != current_letter %}
-    {% assign current_letter = first_letter %}
-    <h2 id="{{ current_letter }}">{{ current_letter }}</h2>
-  {% endif %}
+  {% unless first_char == "[" %}
 
-  <div class="speaker-entry">
-    <a href="#"
-       class="speaker-link"
-       data-speaker-id="{{ speaker_id }}">
-      {{ speaker.name }}
-    </a>
-  </div>
+    {% assign first_letter = speaker_name | slice: 0, 1 | upcase %}
+
+    {% if first_letter != current_letter %}
+      {% assign current_letter = first_letter %}
+      <h2 id="{{ current_letter }}">{{ current_letter }}</h2>
+    {% endif %}
+
+    <div class="speaker-entry">
+      <a href="#"
+         class="speaker-link"
+         data-speaker-id="{{ speaker_id }}">
+        {{ speaker.name }}
+      </a>
+    </div>
+
+  {% endunless %}
 
 {% endfor %}
 
