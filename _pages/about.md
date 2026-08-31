@@ -28,10 +28,10 @@ Recent and Upcoming
 Lee, H., Shim, S. & Seong-Yu, J. The Invisible and the Hypervisible: Anti-Asian Racism in Europe and Historico-Racial Schema. <em>[Anti-Asian Racism in Transatlantic Perspectives: History, Theory, Cultural Representation and Social Movements](https://www.transcript-publishing.com/978-3-8376-7442-2/anti-asian-racism-in-transatlantic-perspectives/?c=410000056&number=978-3-8394-7442-6). </em> (Ed.) Kien Nghi Ha. Transcript: Postcolonial Studies. [pdf](files/LeeShimSeong-Yu2024.pdf) <span class="pill pill-ar">anti-racism</span> 
 
 
-<strong>Aug. 2026</strong>  Asian Diasporic Perspectives on Political Institutions and Counter-Measures to Racism, TBD. Humboldt-Universität zu Berlin. <em> panel discussion. </em>  <span class="pill pill-ar">anti-racism</span> 
+<strong>Aug. 2026</strong> From visibility to accountability: Asian diasporic voices against structural racism. Panel 4: Asian Diasporic Perspectives on Political Institutions and Counter-Measures to Racism. Humboldt-Universität zu Berlin. <em> panel discussion. </em>  <span class="pill pill-ar">anti-racism</span> 
 
 
-<strong>Aug. 2026</strong>  TBD <em>EU-Wide Network Retreat. </em>  Enabel Belgian Development Agency. <em> invited talk. </em>  <span class="pill pill-ar">anti-racism</span> 
+<strong>Aug. 2026</strong>  AI, Discrimination and Community-Led Action: How AI can drive discrimination, and what our network does next. <em>EU-Wide Network Retreat. </em>  Enabel Belgian Development Agency. <em> invited talk. </em>  <span class="pill pill-ar">anti-racism</span> 
 
 <strong>Jul. 2026</strong> [with Jiye Seong] Activism through resilience, solidarity, and joy. [<em>resistant theatre. queering resistance</em>](https://www.wkv-stuttgart.de/programm/2026/ausstellungen/resistant-theatre/queering-resitance/).  Württembergische Kunstverein Stuttgart. <em> invited talk. </em> [pdf](files/SeongLee2026kws.pdf)  <span class="pill pill-ar">anti-racism</span> 
 
