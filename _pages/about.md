@@ -17,7 +17,7 @@ Research Interests
 * Movement (Asymmetries in Left- & Rightward Movements, Scrambling, Extraposition)
 * (No) Control and its licensing condition (with [Mike Berger](https://www.uni-leipzig.de/personenprofil/mitarbeiter/mike-berger))
 * Locality Constraint on Suppletive Allomorph  (with [Irene Amato](https://sites.google.com/view/ireneamato?pli=1))
-* Pseudo-incorporation vs. Differential Argument Marking in Korean (with [Imke Driemel]([https://sites.google.com/view/ireneamato?pli=1](http://imke.driemel.net/start) )
+* Pseudo-incorporation vs. Differential Argument Marking in Korean (with [Imke Driemel]([https://sites.google.com/view/ireneamato?pli=1](http://imke.driemel.net/start))
 * Natural Language Processing (with [Guanghao Xu](https://scienceon.kisti.re.kr/srch/selectPORSrchRsrchman.do?cn=ADPER8901148839))
 * Decolonization, (anti-)racism, intersectionality theory, and discourses of power (with [Asian Voices Europe](https://www.asianvoiceseurope.org/))
 
